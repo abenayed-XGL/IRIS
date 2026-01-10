@@ -1,9 +1,9 @@
 ---
 ---
 
-# abenayed-XGL's Website
+# Our Mission @ RF-SI
 
-An engaging 1-3 sentence description of your lab.
+The mission of the RF-SI Laboratory is to enable the next generation of RF systems through principled integration of hardware, signal processing, and measurement. Under the leadership of Ahmed Ben Ayed, the laboratory develops methodologies that translate fundamental RF behavior into system-level insight, supporting the design and validation of advanced wireless, satellite, and sensing technologies.
 
 {% include section.html %}
 
