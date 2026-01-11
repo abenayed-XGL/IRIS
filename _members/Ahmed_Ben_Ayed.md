@@ -12,8 +12,6 @@ links:
   orcid: 0000-0002-4310-1368
 ---
 
-# Biography
-
 Ahmed Ben Ayed is an Assistant Professor in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST), where he leads the RF Systems Integration (RF-SI) Laboratory. Prior to joining HKUST, he was a Postdoctoral Researcher at the University of Waterloo, Canada.
 
 He received the BEng degree in Electronic Engineering, with a Minor in Mathematics, from HKUST in 2017, and the MASc and PhD degrees in Electrical and Computer Engineering from the University of Waterloo in 2019 and 2024, respectively. His doctoral research focused on advancing millimeter-wave and sub-terahertz communication systems through the integration of RF hardware, signal processing, and measurement science.
