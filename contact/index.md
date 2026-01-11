@@ -7,71 +7,33 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+For prospective students, collaborators, and industry partners, please feel free to reach out. The RF Systems Integration (RF-SI) Laboratory is based in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST).
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="Email: YOUR_EMAIL@ust.hk"
+  link="YOUR_EMAIL@ust.hk"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="HKUST on Google Maps"
+  link="https://www.google.com/maps/search/?api=1&query=HKUST%20Hong%20Kong%20University%20of%20Science%20and%20Technology"
 %}
 
 {% include section.html %}
 
-{% capture col1 %}
+## Mailing Address
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+Department of Electronic and Computer Engineering  
+The Hong Kong University of Science and Technology (HKUST)  
+Clear Water Bay, Kowloon, Hong Kong
 
-{% endcapture %}
+{% include section.html %}
 
-{% capture col2 %}
+## Visiting
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+If you are visiting HKUST, please email in advance to schedule a meeting.
 
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
