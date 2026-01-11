@@ -13,7 +13,7 @@ A defining feature of the RF-SI Laboratory is its system-level approach: integra
 
 {% include section.html %}
 
-# About the PI
+## Principal Investigator
 
 {% assign pi = site.members | where: "name", "Ahmed Ben Ayed" | first %}
 
