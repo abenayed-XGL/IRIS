@@ -21,11 +21,3 @@ The overarching goal of the RF-SI Laboratory is to **bridge theory and experimen
 
 
 {% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
