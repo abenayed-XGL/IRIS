@@ -16,7 +16,7 @@ A defining feature of the RF-SI Laboratory is its system-level approach: integra
 
 {% capture text %}
 
-RF-SI Laboratory focuses on the development of high-frequency RF systems through the integration of hardware design, signal processing, and experimental validation.
+RF-SI Laboratory focuses on the development of high-frequency RF systems through the integration of hardware design, signal processing, and experimental validation. Our research activities are motivated by applications in 5G/6G wireless communications, satellite communications (SATCOM), and emerging high-frequency sensing systems.
 
 {%
   include button.html
@@ -34,31 +34,6 @@ RF-SI Laboratory focuses on the development of high-frequency RF systems through
   image="images/photo.svg"
   link="research"
   title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Our research activities are motivated by applications in 5G/6G wireless communications, satellite communications (SATCOM), and emerging high-frequency sensing systems.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.svg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
   text=text
 %}
 
