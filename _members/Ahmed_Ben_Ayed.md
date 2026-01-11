@@ -2,10 +2,6 @@
 name: Ahmed Ben Ayed
 image: images/team/ahmed-ben-ayed.jpg
 role: pi
-title: Assistant Professor
-affiliation: Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology (HKUST)
-aliases:
-  - A. Ben Ayed
 links:
   home-page: https://abenayed-xgl.github.io/RF-SI/
   google-scholar: https://scholar.google.com/citations?user=X3t3jt0AAAAJ&hl
