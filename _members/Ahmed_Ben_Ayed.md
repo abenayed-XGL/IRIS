@@ -5,7 +5,9 @@ role: principal-investigator
 title: Assistant Professor
 affiliation: The Hong Kong University of Science and Technology (HKUST)
 aliases:
+  - Ahmed Ben Ayed
   - A. Ben Ayed
+  - A. B. Ayed
 links:
   home-page: https://abenayed-xgl.github.io/RF-SI/
   google-scholar: https://scholar.google.com/citations?user=X3t3jt0AAAAJ&hl
