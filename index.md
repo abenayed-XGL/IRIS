@@ -12,6 +12,35 @@ Current research activities include the design of power amplifiers and frequency
 A defining feature of the RF-SI Laboratory is its system-level approach: integrated circuits, antenna arrays, digital signal processing, and measurement techniques are developed in a tightly coupled manner to ensure that theoretical advances translate into practical, deployable RF systems.
 {% include section.html %}
 
+# About the PI
+
+{% assign pi = site.pages | where: "slug", "Ahmed_Ben_Ayed" | first %}
+
+{% if pi %}
+
+  {% capture floatcontent %}
+
+  {% include portrait.html lookup=pi.slug %}
+
+  <div>
+    {% for link in pi.links %}
+      {% assign key = link[0] %}
+      {% assign value = link[1] %}
+      {% include button.html type=key link=value style="bare" %}<br>
+    {% endfor %}
+  </div>
+
+  {% endcapture %}
+
+  {% include float.html content=floatcontent %}
+
+  {{ pi.content }}
+
+{% else %}
+  <p><em>PI profile not found. Check the PI page slug.</em></p>
+{% endif %}
+
+
 ## Highlights
 
 {% capture text %}
