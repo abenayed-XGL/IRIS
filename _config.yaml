@@ -4,7 +4,7 @@ subtitle: HKUST
 description: The RF-SI Laboratory, led by Ahmed Ben Ayed, advances research at the intersection of high-frequency RF hardware, signal processing, and measurement science.
 header: images/background.jpg
 footer: images/background.jpg
-proofer: true
+proofer: false
 
 # site social media and other links
 links:
