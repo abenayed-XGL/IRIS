@@ -31,7 +31,7 @@ RF-SI Laboratory focuses on the development of high-frequency RF systems through
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo.svg"
   link="research"
   title="Our Research"
   text=text
@@ -54,7 +54,7 @@ Our research activities are motivated by applications in 5G/6G wireless communic
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo.svg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -79,7 +79,7 @@ Members of the RF-SI Laboratory are trained to develop a strong system-level und
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo.svg"
   link="team"
   title="Our Team"
   text=text
