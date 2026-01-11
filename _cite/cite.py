@@ -135,6 +135,11 @@ for index, source in enumerate(sources):
     # source id
     _id = get_safe(source, "id", "").strip()
 
+    # ADD THIS BLOCK
+    if not _id:
+        warnings.append(f"Skipping source without id: {label(source)}")
+        continue
+
     # manubot doesn't work without an id
     if _id:
         log("Using Manubot to generate citation", indent=1)
