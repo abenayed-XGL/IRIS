@@ -1,4 +1,4 @@
-% Publications
+# Publications
 
 Research conducted in the RF Systems Integration (RF-SI) Laboratory is disseminated through **top-tier international conferences and archival journals** in the field of RF and microwave engineering. These include leading venues such as the **IEEE International Microwave Symposium (IMS)**, the **European Microwave Conference (EuMW)**, and the **IEEE Transactions on Microwave Theory and Techniques (T-MTT)**, among others.
 
