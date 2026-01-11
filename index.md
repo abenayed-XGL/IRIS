@@ -3,7 +3,7 @@
 
 # About RF-SI Laboratory
 
-The RF Systems Integration (RF-SI) Laboratory is a research group led by Ahmed Ben Ayed in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST).
+The RF Systems Integration (RF-SI) Laboratory is a research group led by Assistant Professor Ahmed Ben Ayed in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST).
 
 The laboratory conducts research on high-frequency RF and millimeter-wave systems, with an emphasis on bridging theoretical innovation with experimental validation. Our work spans the design, modeling, and characterization of RF hardware and systems for next-generation wireless communications, satellite systems, and high-frequency sensing applications.
 
