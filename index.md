@@ -10,11 +10,12 @@ The RF Systems Integration (RF-SI) Laboratory is a research group led by Assista
 Current research activities include the design of power amplifiers and frequency-multiplier-based transmitters for mm-wave and sub-THz signal generation, phased and large-scale antenna arrays that explicitly account for hardware non-idealities, advanced signal processing techniques for calibration, beamforming, and linearization, and the development of novel measurement methodologies for wideband modulated signal characterization.
 
 A defining feature of the RF-SI Laboratory is its system-level approach: integrated circuits, antenna arrays, digital signal processing, and measurement techniques are developed in a tightly coupled manner to ensure that theoretical advances translate into practical, deployable RF systems.
+
 {% include section.html %}
 
 # About the PI
 
-{% assign pi = site.pages | where: "slug", "Ahmed_Ben_Ayed" | first %}
+{% assign pi = site.members | where: "name", "Ahmed Ben Ayed" | first %}
 
 {% if pi %}
 
@@ -37,7 +38,7 @@ A defining feature of the RF-SI Laboratory is its system-level approach: integra
   {{ pi.content }}
 
 {% else %}
-  <p><em>PI profile not found. Check the PI page slug.</em></p>
+  <p><em>PI profile not found. Check the collection name and PI identifier.</em></p>
 {% endif %}
 
 
