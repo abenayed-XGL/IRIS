@@ -4,12 +4,12 @@ nav:
   order: 0
 ---
 
-# About RF-SI Laboratory
-The RF Systems Integration (RF-SI) Laboratory is a research group led by Assistant Professor Ahmed Ben Ayed in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST).
+# About IRIS Group
+The Intelligent Radio and Integrated Systems Group (IRIS) is a research group led by Assistant Professor Ahmed Ben Ayed in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST).
 
 Current research activities include the design of power amplifiers and frequency-multiplier-based transmitters for mm-wave and sub-THz signal generation, phased and large-scale antenna arrays that explicitly account for hardware non-idealities, advanced signal processing techniques for calibration, beamforming, and linearization, and the development of novel measurement methodologies for wideband modulated signal characterization.
 
-A defining feature of the RF-SI Laboratory is its system-level approach: integrated circuits, antenna arrays, digital signal processing, and measurement techniques are developed in a tightly coupled manner to ensure that theoretical advances translate into practical, deployable RF systems.
+A defining feature of the IRIS Group is its system-level approach: integrated circuits, antenna arrays, digital signal processing, and measurement techniques are developed in a tightly coupled manner to ensure that theoretical advances translate into practical, deployable RF systems.
 
 {% include section.html %}
 
@@ -46,7 +46,7 @@ A defining feature of the RF-SI Laboratory is its system-level approach: integra
 
 {% capture text %}
 
-RF-SI Laboratory focuses on the development of high-frequency RF systems through the integration of hardware design, signal processing, and experimental validation. Our research activities are motivated by applications in 5G/6G wireless communications, satellite communications (SATCOM), and emerging high-frequency sensing systems.
+IRIS Group focuses on the development of high-frequency RF systems through the integration of hardware design, signal processing, and experimental validation. Our research activities are motivated by applications in 5G/6G wireless communications, satellite communications (SATCOM), and emerging high-frequency sensing systems.
 
 {%
   include button.html
@@ -69,7 +69,7 @@ RF-SI Laboratory focuses on the development of high-frequency RF systems through
 
 {% capture text %}
 
-Members of the RF-SI Laboratory are trained to develop a strong system-level understanding of RF technologies and are well positioned for careers in academia and industry, particularly in high-frequency wireless, satellite, and measurement-oriented engineering roles.
+Members of the IRIS Group are trained to develop a strong system-level understanding of RF technologies and are well positioned for careers in academia and industry, particularly in high-frequency wireless, satellite, and measurement-oriented engineering roles.
 
 {%
   include button.html
