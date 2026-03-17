@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Intelligent Radio and Integrated Systems Group (IRIS)
+title: Intelligent Radio and Integrated Systems Laboratory (IRIS)
 subtitle: HKUST
-description: The RF-SI Laboratory, led by Ahmed Ben Ayed, advances research at the intersection of high-frequency RF hardware, signal processing, and measurement science.
+description: The IRIS Lab, led by Ahmed Ben Ayed, advances research at the intersection of high-frequency RF hardware, signal processing, and measurement science.
 header: images/background.png
 footer: images/background.png
 proofer: false
