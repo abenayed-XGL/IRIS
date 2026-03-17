@@ -5,7 +5,7 @@ nav:
 ---
 
 # About IRIS Lab
-The Intelligent Radio and Integrated Systems (IRIS) Laboratory is a research group led by Assistant Professor Ahmed Ben Ayed in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST).
+The Intelligent Radio and Integrated Systems (IRIS) Laboratory, led by Assistant Professor Ahmed Ben Ayed, is part of the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST).
 
 Current research activities include the design of power amplifiers and frequency-multiplier-based transmitters for mm-wave and sub-THz signal generation, phased and large-scale antenna arrays that explicitly account for hardware non-idealities, advanced signal processing techniques for calibration, beamforming, and linearization, and the development of novel measurement methodologies for wideband modulated signal characterization.
 
