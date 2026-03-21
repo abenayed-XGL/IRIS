@@ -54,7 +54,7 @@ Beyond the laboratory, IRIS trainees are prepared to contribute as highly skille
 
 {% capture text %}
 
-If you are interested in physical-layer technology for wireless communications, visit our Research page to learn more about what we do.
+Explore our work on physical-layer technologies for next-generation wireless and satellite communications, with emphasis on practical, high-performance RF systems.
 
 {%
   include button.html
