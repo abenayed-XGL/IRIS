@@ -1,6 +1,6 @@
 ---
 name: Ahmed Ben Ayed
-image: images/team/ahmed-ben-ayed.jpeg
+image: images/team/ahmed-ben-ayed.jpg
 role: principal-investigator
 title: Assistant Professor
 affiliation: The Hong Kong University of Science and Technology (HKUST)
