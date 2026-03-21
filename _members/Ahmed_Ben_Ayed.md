@@ -18,9 +18,9 @@ Ahmed Ben Ayed is an Assistant Professor in the Department of Electronic and Com
 
 He received the BEng degree in Electronic Engineering, with a Minor in Mathematics, from HKUST in 2017, and the MASc and PhD degrees in Electrical and Computer Engineering from the University of Waterloo in 2019 and 2024, respectively. 
 
-Dr. Ben Ayed’s research aims to advance **physical-layer modeling, design, and optimization** for next-generation wireless and satellite communication (SATCOM) systems. His work spans **novel high-frequency transceiver architectures**, **beamforming antenna arrays and large-scale MIMO transmitters**, **hardware-aware digital signal processing for calibration and linearization**, and **high-frequency wideband measurement techniques**. A defining feature of his research is a system-level approach that tightly couples circuits, antennas, DSP, and measurements to bridge the gap between theoretical analysis and practical, deployable RF systems.
+Dr. Ben Ayed’s research aims to advance physical-layer modeling, design, and optimization for next-generation wireless and satellite communication (SATCOM) systems. His work spans novel high-frequency transceiver architectures, beamforming antenna arrays and large-scale MIMO transmitters, hardware-aware digital signal processing for calibration and linearization, and high-frequency wideband measurement techniques. A defining feature of his research is a system-level approach that tightly couples circuits, antennas, DSP, and measurements to bridge the gap between theoretical analysis and practical, deployable RF systems.
 
-His research contributions have been recognized through multiple honors, including multiple **IMS Top 50 Paper Awards**, **Advanced Practice Paper Finalist nominations**, and **Best Student Paper Finalist award**.
+His research contributions have been recognized through multiple honors, including multiple IMS Top 50 Paper Awards, Advanced Practice Paper Finalist nominations, and Best Student Paper Finalist award.
 
 Dr. Ben Ayed serves the technical community as a reviewer for major IEEE journals. He is a member of the IEEE Microwave Theory and Techniques Society (MTT-S) and a Young Professional Affiliated Member of the IEEE MTT-S Technical Committee on Wireless Communications (TC-23).
 
