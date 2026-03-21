@@ -1,0 +1,36 @@
+.background {
+  position: relative;
+  background: var(--background);
+  color: var(--text);
+  z-index: 1;
+}
+
+/* background image */
+.background:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: var(--image);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  opacity: 0.35; /* slightly increase visibility */
+  z-index: -2;
+}
+
+/* NEW: soft light glow for contrast */
+.background:after {
+  content: "";
+  position: absolute;
+  inset: 0;
+
+  background: radial-gradient(
+    circle at center,
+    rgba(255, 255, 255, 0.25) 0%,
+    rgba(255, 255, 255, 0.10) 20%,
+    rgba(0, 0, 0, 0) 45%
+  );
+
+  z-index: -1;
+  pointer-events: none;
+}
