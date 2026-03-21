@@ -18,7 +18,7 @@ Under the leadership of Prof. Ahmed Ben Ayed, IRIS combines theoretical analysis
 
 Beyond the laboratory, IRIS trainees are prepared to contribute as highly skilled researchers and engineers in academia and industry.
 
-
+<!--
 {% include section.html %}
 
 ## Principal Investigator
@@ -48,7 +48,7 @@ Beyond the laboratory, IRIS trainees are prepared to contribute as highly skille
 {% else %}
   <p><em>PI profile not found. Check the collection name and PI identifier.</em></p>
 {% endif %}
-
+-->
 
 ## Highlights
 
