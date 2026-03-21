@@ -17,6 +17,8 @@ Research at the Intelligent Radio and Integrated Systems (IRIS) Laboratory focus
 
 - **Test and measurement techniques**, including signal pre-processing and post-processing methods that enhance the capabilities of signal generation and signal analysis equipment for advanced RF system characterization and validation, together with digital-twin-based array emulation platforms that enable realistic experimental emulation of large arrays without requiring full-scale simulation or hardware implementation
 
-Through its industry-focused and collaborative approach, the IRIS Laboratory provides unique opportunities for students and researchers to engage in cutting-edge work using state-of-the-art design tools and equipment, helping them develop the theoretical and practical skills needed to thrive in academia or industry. Prospective students, collaborators, and industry partners are encouraged to explore our [published research work](/publications) or [contact us](/contact) directly.
+Through its industry-focused and collaborative approach, the IRIS Laboratory provides unique opportunities for students and researchers to engage in cutting-edge work using state-of-the-art design tools and equipment, helping them develop the theoretical and practical skills needed to thrive in academia or industry. 
+
+Prospective students, collaborators, and industry partners are encouraged to explore our [published research work](/publications) or [contact us](/contact) directly.
 
 {% include section.html %}
