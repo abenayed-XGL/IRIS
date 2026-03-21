@@ -61,7 +61,7 @@ The IRIS Lab develops next-generation high-frequency RF circuits and systems for
 
 {%
   include feature.html
-  image="images/research.png"
+  image="images/research.svg"
   link="research"
   title="Our Research"
   text=text
