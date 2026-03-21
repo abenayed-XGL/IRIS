@@ -14,7 +14,7 @@ IRIS adopts a multidisciplinary, system-level approach that spans circuit design
 
 The laboratory focuses on industry-relevant research questions in terrestrial and non-terrestrial communications, with emphasis on practical, high-performance RF systems.
 
-Under the leadership of Prof. Ahmed Ben Ayed, IRIS combines theoretical analysis, hardware development, and experimental validation using state-of-the-art design tools and measurement equipment to produce impactful prototypes, publications, and future technologies.
+Under the leadership of [Prof. Ahmed Ben Ayed](/IRIS/members/Ahmed_Ben_Ayed.html), IRIS combines theoretical analysis, hardware development, and experimental validation using state-of-the-art design tools and measurement equipment to produce impactful prototypes, publications, and future technologies.
 
 Beyond the laboratory, IRIS trainees are prepared to contribute as highly skilled researchers and engineers in academia and industry.
 
