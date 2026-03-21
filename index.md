@@ -46,12 +46,12 @@ A defining feature of the IRIS Lab is its system-level approach: integrated circ
 
 {% capture text %}
 
-IRIS Lab focuses on the development of high-frequency RF systems through the integration of hardware design, signal processing, and experimental validation. Our research activities are motivated by applications in 5G/6G wireless communications, satellite communications (SATCOM), and emerging high-frequency sensing systems.
+The IRIS Lab develops next-generation high-frequency RF circuits and systems for wireless and SATCOM applications. Our research focuses on the integration of signal processing, antenna and circuit design, and advanced test and measurement techniques to enable efficient, high-performance communication platforms.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -69,7 +69,7 @@ IRIS Lab focuses on the development of high-frequency RF systems through the int
 
 {% capture text %}
 
-Members of the IRIS Lab are trained to develop a strong system-level understanding of RF technologies and are well positioned for careers in academia and industry, particularly in high-frequency wireless, satellite, and measurement-oriented engineering roles.
+Members of the IRIS Lab develop a strong system-level understanding of RF technologies and gain hands-on experience that prepares them for careers in academia and industry.
 
 {%
   include button.html
@@ -87,5 +87,28 @@ Members of the IRIS Lab are trained to develop a strong system-level understandi
   image="images/photo.svg"
   link="team"
   title="Our Team"
+  text=text
+%}
+
+{% capture text %}
+
+The IRIS Lab welcomes undergraduate students, prospective postgraduate students, and collaborators with interests in RF circuits and systems, antenna arrays, signal processing, and test and measurement science.
+
+{%
+  include button.html
+  link="contact"
+  text="Join us"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.svg"
+  link="contact"
+  title="Join Us"
   text=text
 %}
