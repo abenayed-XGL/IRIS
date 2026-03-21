@@ -4,12 +4,21 @@ nav:
   order: 0
 ---
 
-# About IRIS Lab
-The Intelligent Radio and Integrated Systems (IRIS) Laboratory, led by Assistant Professor Ahmed Ben Ayed, is part of the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST).
+# Our Mission
+The Intelligent Radio and Integrated Systems Laboratory (IRIS) within the Department of Electronic and Computer Engineering is dedicated to developing the next generation of high-frequency RF hardware for wireless and satellite communications.
 
-Current research activities include the design of power amplifiers and frequency-multiplier-based transmitters for mm-wave and sub-THz signal generation, phased and large-scale antenna arrays that explicitly account for hardware non-idealities, advanced signal processing techniques for calibration, beamforming, and linearization, and the development of novel measurement methodologies for wideband modulated signal characterization.
+Our goal is to bridge the gap between theoretical advances and practical, deployable RF systems by co-developing RF circuits and antenna arrays, signal processing algorithms, and measurement techniques as a unified design effort.
 
-A defining feature of the IRIS Lab is its system-level approach: integrated circuits, antenna arrays, digital signal processing, and measurement techniques are developed in a tightly coupled manner to ensure that theoretical advances translate into practical, deployable RF systems.
+We aim to make next-generation communication systems more efficient, reliable, and permant closing the gap between theoretical expectaion and practice.
+
+# Our Approach
+
+IRIS employs a system-level approach that spans circuit design, antenna design, digital signal processing, and test and measurement science.
+
+Under the leadership of Prof. Ahmed Ben Ayed, our team turns research ideas into high-impact prototypes and publications using state-of-the-art design tools and measurement equipment.
+
+Our industry-focused, collaborative approach to research is designed to train the next generation of highly qualified RF engineers and researchers.
+
 
 {% include section.html %}
 
@@ -69,7 +78,7 @@ The IRIS Lab develops next-generation high-frequency RF circuits and systems for
 
 {% capture text %}
 
-Members of the IRIS Lab develop a strong system-level understanding of RF technologies and gain hands-on experience that prepares them for careers in academia and industry.
+Our members develop a strong system-level understanding of RF technologies and gain hands-on experience that prepares them for careers in academia and industry.
 
 {%
   include button.html
@@ -93,7 +102,7 @@ Members of the IRIS Lab develop a strong system-level understanding of RF techno
 
 {% capture text %}
 
-The IRIS Lab welcomes undergraduate students, prospective postgraduate students, and collaborators with interests in RF circuits and systems, antenna arrays, signal processing, and test and measurement science.
+IRIS welcomes undergraduate and prospective postgraduate students as well as collaborators with interests in RF circuits, antenna arrays, signal processing, and test and measurement. 
 
 {%
   include button.html
