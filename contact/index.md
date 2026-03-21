@@ -45,9 +45,9 @@ Prospective postgraduate applicants are encouraged to contact **Prof. Ahmed Ben 
 
 {% include section.html %}
 
-## Undergraduate Research Opportunities (UROP)
+## Undergraduate Research Opportunities
 
-The IRIS Laboratory welcomes **undergraduate students** interested in gaining research experience through the **Undergraduate Research Opportunities Program (UROP)** or **research internships**.
+The IRIS Laboratory welcomes undergraduate students interested in gaining research experience through the Undergraduate Research Opportunities Program (UROP) or research internships.
 
 UROP students will have the opportunity to work closely with the PI and postgraduate researchers on projects related to RF circuits, antenna arrays, signal processing, and measurement techniques. These positions are particularly well suited for students interested in pursuing graduate studies or gaining hands-on research experience. Applicants from diverse academic backgrounds, including ECE, CPEG, CS, and MECH, are encouraged to apply.
 
