@@ -61,7 +61,7 @@ The IRIS Lab develops next-generation high-frequency RF circuits and systems for
 
 {%
   include feature.html
-  image="images/photo.svg"
+  image="images/research.svg"
   link="research"
   title="Our Research"
   text=text
@@ -84,7 +84,7 @@ Members of the IRIS Lab develop a strong system-level understanding of RF techno
 
 {%
   include feature.html
-  image="images/photo.svg"
+  image="images/team.svg"
   link="team"
   title="Our Team"
   text=text
@@ -108,7 +108,7 @@ The IRIS Lab welcomes undergraduate students, prospective postgraduate students,
 
 {%
   include feature.html
-  image="images/photo.svg"
+  image="images/join.svg"
   link="contact"
   title="Join Us"
   text=text
