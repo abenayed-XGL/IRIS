@@ -32,7 +32,7 @@ UROP students work closely with the PI and postgraduate researchers on projects 
 
 HKUST values diversity and welcomes applications from all qualified individuals.
 
-Interested candidates should email a complete application package to [eebenayed@ust.hk](mailto:eebenayed@ust.hk), consisting of the following:
+Interested candidates should email a complete application package to [Prof. Ahmed Ben Ayed](mailto:eebenayed@ust.hk), consisting of the following:
 
 * A cover letter stating your research interests and experience, and how they relate to one of the positions described above
 * A curriculum vitae, including the names and contact information of two or three academic or professional references
