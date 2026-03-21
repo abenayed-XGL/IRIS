@@ -97,8 +97,8 @@ The IRIS Lab welcomes undergraduate students, prospective postgraduate students,
 
 {%
   include button.html
-  link="Opportunities"
-  text="Join us"
+  link="contact"
+  text="Opportunities"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
