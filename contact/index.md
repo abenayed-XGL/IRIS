@@ -30,11 +30,11 @@ Prospective students, collaborators, and industry partners are welcome to get in
 The Intelligent Radio and Integrated Systems (IRIS) Laboratory is currently recruiting motivated postgraduate students to join the group.
 
 - **Postgraduate Student (Digital Signal Processing):**  
-  This position focuses on digital signal processing for high-frequency RF systems, with emphasis on array calibration, transmitter linearization, and advanced measurement methodologies for next-generation terrestrial and non-terrestrial communication systems operating across GHz-to-sub-THz frequency bands.  
+  This position focuses on developing signal processing schemes and analytical models to counteract hardware limitations in high-frequency RF coomuncaiton systems. Core research topics include array calibration, transmitter linearization, and advanced test and measurement techniques for next-generation terrestrial and non-terrestrial communication systems. 
   *Preferred background:* signals and systems, communications, applied mathematics, or closely related fields.
 
 - **Postgraduate Student (Antenna Design and System Integration):**  
-  This position focuses on antenna and array design, RF passive circuit design, and system-level integration for next-generation wireless systems, with emphasis on sub-10 GHz MIMO transmitters and millimeter-wave SATCOM arrays.  
+  This position focuses on antenna and array design, RF passive circuit design, and system-level integration for next-generation wireless systems, with emphasis on sub-10 GHz MIMO transmitters and millimeter-wave SATCOM beamforming arrays.  
   *Preferred background:* electromagnetics, antenna theory, RF/microwave engineering, or related fields.
 
 - **Postgraduate Student (RF Active Circuit Design):**  
