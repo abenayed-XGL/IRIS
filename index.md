@@ -54,7 +54,7 @@ Beyond the laboratory, IRIS trainees are prepared to contribute as highly skille
 
 {% capture text %}
 
-The IRIS Lab develops next-generation high-frequency RF circuits and systems for wireless and SATCOM applications. Our research focuses on the integration of signal processing, antenna and circuit design, and advanced test and measurement techniques to enable efficient, high-performance communication platforms.
+If you are interested in physical-layer technology for wireless communications, visit our Research page to learn more about what we do.
 
 {%
   include button.html
