@@ -30,7 +30,7 @@ Prospective students, collaborators, and industry partners are welcome to get in
 The Intelligent Radio and Integrated Systems (IRIS) Laboratory is currently recruiting motivated postgraduate students to join the group.
 
 - **Postgraduate Student (Digital Signal Processing):**  
-  This position focuses on developing signal processing schemes and analytical models to counteract hardware limitations in high-frequency RF coomuncaiton systems. Core research topics include array calibration, transmitter linearization, and advanced test and measurement techniques for next-generation terrestrial and non-terrestrial communication systems. 
+  This position focuses on developing signal processing schemes and analytical models to counteract hardware limitations in high-frequency RF coomuncaiton systems. Core research topics include array calibration, transmitter linearization, and advanced test and measurement techniques for next-generation terrestrial and non-terrestrial communication systems.
   *Preferred background:* signals and systems, communications, applied mathematics, or closely related fields.
 
 - **Postgraduate Student (Antenna Design and System Integration):**  
@@ -51,5 +51,5 @@ The IRIS Laboratory welcomes undergraduate students interested in gaining resear
 
 UROP students will have the opportunity to work closely with the PI and postgraduate researchers on projects related to RF circuits, antenna arrays, signal processing, and measurement techniques. These positions are particularly well suited for students interested in pursuing graduate studies or gaining hands-on research experience. Applicants from diverse academic backgrounds, including ECE, CPEG, CS, and MECH, are encouraged to apply.
 
-Interested undergraduate students are encouraged to contact **Prof. Ahmed Ben Ayed** by email with a short statement of interest and a brief summary of their academic background.
+Interested undergraduate students are encouraged to contact Prof. Ahmed Ben Ayed by email with a short statement of interest and a brief summary of their academic background.
 
