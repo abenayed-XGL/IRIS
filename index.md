@@ -88,6 +88,7 @@ Members of the IRIS Lab develop a strong system-level understanding of RF techno
   link="team"
   title="Our Team"
   text=text
+  flip=true
 %}
 
 {% capture text %}
