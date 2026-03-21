@@ -18,7 +18,7 @@ The IRIS Laboratory is actively recruiting motivated students and researchers to
   *Preferred background:* electromagnetics, antenna theory, RF/microwave engineering, or related fields.
 
 * **Postgraduate Student (RF Active Circuit Design)**
-  Designing efficient RF front-ends for next-generation wireless and SATCOM systems. Areas of interest include power amplifiers, frequency multipliers, and analog predistortion.
+  Designing high-efficiency and ultra-wideband power amplifiers, frequency multipliers, and analog predistortion circuits for next-generation wireless and SATCOM systems.
   *Preferred background:* analog and RF circuit design, electronics, RF/microwave engineering, or related fields.
 
 ## Undergraduate Research
