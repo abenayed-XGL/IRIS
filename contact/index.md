@@ -7,15 +7,16 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %} Contact
 
-Prospective students, collaborators, and industry partners are welcome to get in touch. The Intelligent Radio and Integrated Systems (IRIS) Laboratory is based in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST).
+The Intelligent Radio and Integrated Systems (IRIS) Laboratory is based in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST).
+
+For inquiries about our research, collaboration, or open positions, please reach out to Prof. Ahmed Ben Ayed.
 
 {%
   include button.html
   type="email"
-  text="Email: eebenayed@ust.hk"
+  text="eebenayed@ust.hk"
   link="eebenayed@ust.hk"
 %}
-
 {%
   include button.html
   type="address"
@@ -25,31 +26,12 @@ Prospective students, collaborators, and industry partners are welcome to get in
 
 {% include section.html %}
 
-## Open Postgraduate Positions
+## {% include icon.html icon="fa-regular fa-compass" %} Visit Us
 
-The Intelligent Radio and Integrated Systems (IRIS) Laboratory is currently recruiting motivated postgraduate students to join the group.
-
-- **Postgraduate Student (Digital Signal Processing):**  
-  This position focuses on developing signal processing schemes and analytical models to counteract hardware limitations in high-frequency RF comunication systems. Core research topics include array calibration, transmitter linearization, and advanced test and measurement techniques for next-generation terrestrial and non-terrestrial communication systems.
-  *Preferred background:* signals and systems, communications, applied mathematics, or closely related fields.
-
-- **Postgraduate Student (Antenna Design and System Integration):**  
-  This position focuses on antenna and array design, RF passive circuit design, and system-level integration for next-generation wireless systems, with emphasis on sub-10 GHz MIMO transmitters and millimeter-wave SATCOM beamforming arrays.  
-  *Preferred background:* electromagnetics, antenna theory, RF/microwave engineering, or related fields.
-
-- **Postgraduate Student (RF Active Circuit Design):**  
-  This position focuses on the design of efficient RF front-ends for next-generation wireless and satellite communications (SATCOM) systems. Areas of interest include power amplifiers, frequency multipliers, and analog predistortion.  
-  *Preferred background:* analog and RF circuit design, electronics, RF/microwave engineering, or related fields.
-
-Prospective postgraduate applicants are encouraged to contact Prof. Ahmed Ben Ayed by email with a brief description of their background and research interests.
+We are happy to provide a guided tour of our facilities and discuss our research with potential collaborators, prospective students, and industry partners. Please contact [Prof. Ahmed Ben Ayed](mailto:eebenayed@ust.hk) to arrange a visit.
 
 {% include section.html %}
 
-## Undergraduate Research Opportunities
+## {% include icon.html icon="fa-solid fa-briefcase" %} Opportunities
 
-The IRIS Laboratory welcomes undergraduate students interested in gaining research experience through the Undergraduate Research Opportunities Program (UROP) or research internships.
-
-UROP students will have the opportunity to work closely with the PI and postgraduate researchers on projects related to RF circuits, antenna arrays, signal processing, and measurement techniques. These positions are particularly well suited for students interested in pursuing graduate studies or gaining hands-on research experience. Applicants from diverse academic backgrounds, including ECE, CPEG, CS, and MECH, are encouraged to apply.
-
-Interested undergraduate students are encouraged to contact Prof. Ahmed Ben Ayed by email with a short statement of interest and a brief summary of their academic background.
-
+IRIS is actively recruiting postgraduate students and welcomes undergraduate researchers. See our [Opportunities](opportunities) page for current openings and application instructions.
