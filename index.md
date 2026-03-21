@@ -98,7 +98,7 @@ The IRIS Lab welcomes undergraduate students, prospective postgraduate students,
 {%
   include button.html
   link="contact"
-  text="Opportunities"
+  text="Join Us"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -110,6 +110,6 @@ The IRIS Lab welcomes undergraduate students, prospective postgraduate students,
   include feature.html
   image="images/join.svg"
   link="contact"
-  title="Join Us"
+  title="Opportunities"
   text=text
 %}
