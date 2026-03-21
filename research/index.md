@@ -7,16 +7,18 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Research at the Intelligent Radio and Integrated Systems (IRIS) Laboratory focuses on the development of next-generation RF circuits and systems through the tight integration of **hardware, signal processing, and measurement techniques**. The laboratory adopts a system-level perspective to address the challenges of achieving efficient, high-quality signal generation and transmission.
+Research at the Intelligent Radio and Integrated Systems (IRIS) Laboratory focuses on next-generation RF circuits and systems for terrestrial and non-terrestrial communications. The laboratory adopts a holistic, system-level approach that tightly integrates digital signal processing, antenna and circuit design, and test and measurement techniques to enable practical, high-performance RF systems.
+
 In particular, the IRIS Laboratory works on:
 
-- **Novel transceiver architectures for mm-wave and sub-THz systems**, enabling efficient and high-fidelity signal generation under wideband and vector-modulated operation  
-- **Advanced beamforming antenna arrays**, with emphasis on architectures and design methodologies that account for hardware non-idealities, mutual coupling, and beam-dependent effects  
-- **Large-scale MIMO transmitters**, where circuits, antenna arrays, and signal processing are co-optimized to achieve scalable and robust system performance  
-- **Digital signal processing methods**, aimed at optimizing transceiver performance through calibration, and linearization techniques tailored to practical hardware constraints  
-- **Test and Measurements:** developing characterization and validation methodologies that bridge the gap between theoretical models, simulations, and real-world system behavior  
+- **Advanced hardware-aware digital signal processing**, aimed at enhancing transceiver performance in MIMO transmitters and beamforming arrays through analytical modeling, calibration, and linearization techniques that explicitly account for practical hardware limitations and system-level interactions
 
-The overarching goal of the RF-SI Laboratory is to **bridge theory and experimental validation**, ensuring that advances in RF circuits, antenna arrays, and signal processing translate into practical, deployable systems. This research is motivated by applications in **next-generation wireless communications, satellite systems, and high-frequency sensing**, with particular relevance to **6G and beyond**.
+- **Large-Scale Antenna Arrays for wireless and SATCOM applications**, with emphasis on design methodologies that account for antenna and front-end non-idealities, as well as the integration of sensing capabilities that provide feedback for DSP-based performance enhancement techniques
+- 
+- **Novel transceiver and front-end architectures**, enabling efficient and high-linearity signal generation under ultra-wideband and vector-modulated operation, including high-efficiency power amplifiers, frequency multipliers, and analog predistortion techniques
 
+- **Test and measurement techniques**, including signal pre-processing and post-processing methods that enhance the capabilities of signal generation and signal analysis equipment for advanced RF system characterization and validation, together with digital-twin-based array emulation platforms that enable realistic experimental emulation of large arrays without requiring full-scale simulation or hardware implementation
+
+Through its industry-focused and collaborative approach, the IRIS Laboratory provides unique opportunities for students and researchers to engage in cutting-edge work using state-of-the-art design tools and equipment, helping them develop the theoretical and practical skills needed to thrive in academia or industry. Prospective students, collaborators, and industry partners are encouraged to explore our [published research work](publication) or [contact us](contact) directly.
 
 {% include section.html %}
