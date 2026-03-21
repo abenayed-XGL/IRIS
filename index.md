@@ -7,17 +7,16 @@ nav:
 # Our Mission
 The Intelligent Radio and Integrated Systems (IRIS) Laboratory within the Department of Electronic and Computer Engineering is dedicated to advancing next-generation high-frequency RF circuits and systems for wireless and satellite communications.
 
-Its mission is to bridge the gap between theoretical innovation and practical deployment by co-developing RF circuits and antenna arrays, signal processing algorithms, and measurement techniques as part of a unified system-level design effort.
-
-Through this work, IRIS aims to make future communication systems more efficient, reliable, and scalable.
+IRIS aims to bridge the gap between theoretical innovation and practical deployment solutions by co-developing RF circuits and antenna arrays, signal processing algorithms, and measurement techniques as part of a unified system-level design effort — making future communication systems more efficient, reliable, and scalable.
 
 # Our Approach
+IRIS adopts a multidisciplinary, system-level approach that spans circuit design, antenna engineering, signal processing, and test and measurement science.
 
-IRIS employs a system-level approach that spans circuit design, antenna design, digital signal processing, and test and measurement science.
+The laboratory focuses on industry-relevant research questions in terrestrial and non-terrestrial communications, with emphasis on practical, high-performance RF systems.
 
-Under the leadership of Prof. Ahmed Ben Ayed, our team turns research ideas into high-impact prototypes and publications using state-of-the-art design tools and measurement equipment.
+Under the leadership of Prof. Ahmed Ben Ayed, IRIS combines theoretical analysis, hardware development, and experimental validation using state-of-the-art design tools and measurement equipment to produce impactful prototypes, publications, and future technologies.
 
-Our industry-focused, collaborative approach to research is designed to train the next generation of highly qualified RF engineers and researchers.
+Beyond the laboratory, IRIS trainees are prepared to contribute as highly skilled researchers and engineers in academia and industry.
 
 
 {% include section.html %}
