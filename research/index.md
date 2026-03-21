@@ -9,7 +9,7 @@ nav:
 
 Research at the Intelligent Radio and Integrated Systems (IRIS) Laboratory focuses on next-generation RF circuits and systems for terrestrial and non-terrestrial communications. The laboratory adopts a holistic, system-level approach that tightly integrates digital signal processing, antenna and circuit design, and test and measurement techniques to enable practical, high-performance RF systems. In particular, the IRIS Laboratory works on:
 
-- **Advanced hardware-aware digital signal processing**, aimed at enhancing transceiver performance in MIMO transmitters and beamforming arrays through analytical modeling, calibration, and linearization techniques that explicitly account for practical hardware limitations and system-level interactions
+- **Advanced hardware-aware digital signal processing**, aimed at enhancing transceiver performance of beamforming arrays through analytical modeling, calibration, and linearization techniques that explicitly account for practical hardware limitations and system-level interactions
 
 - **Large-Scale Antenna Arrays for wireless and SATCOM applications**, with emphasis on design methodologies that account for antenna and front-end non-idealities, as well as the integration of sensing capabilities that provide feedback for DSP-based performance enhancement techniques
   
