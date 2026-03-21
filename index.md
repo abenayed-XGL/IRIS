@@ -7,7 +7,7 @@ nav:
 # Our Mission
 The Intelligent Radio and Integrated Systems (IRIS) Laboratory within the Department of Electronic and Computer Engineering is dedicated to advancing next-generation high-frequency RF circuits and systems for wireless and satellite communications.
 
-IRIS aims to bridge the gap between theoretical innovation and practical deployment solutions by co-developing RF circuits and antenna arrays, signal processing algorithms, and measurement techniques as part of a unified system-level design effort — making future communication systems more efficient, reliable, and scalable.
+IRIS aims to bridge the gap between theoretical innovation and practical deployment by co-developing RF circuits and antenna arrays, signal processing algorithms, and measurement techniques as part of a unified system-level design effort — making future communication systems more efficient, reliable, and scalable.
 
 # Our Approach
 IRIS adopts a multidisciplinary, system-level approach that spans circuit design, antenna engineering, signal processing, and test and measurement science.
