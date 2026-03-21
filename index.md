@@ -18,38 +18,6 @@ Under the leadership of Prof. Ahmed Ben Ayed, IRIS combines theoretical analysis
 
 Beyond the laboratory, IRIS trainees are prepared to contribute as highly skilled researchers and engineers in academia and industry.
 
-<!--
-{% include section.html %}
-
-## Principal Investigator
-
-{% assign pi = site.members | where: "name", "Ahmed Ben Ayed" | first %}
-
-{% if pi %}
-
-  {% capture floatcontent %}
-
-  {% include portrait.html lookup=pi.slug %}
-
-  <div>
-    {% for link in pi.links %}
-      {% assign key = link[0] %}
-      {% assign value = link[1] %}
-      {% include button.html type=key link=value style="bare" %}<br>
-    {% endfor %}
-  </div>
-
-  {% endcapture %}
-
-  {% include float.html content=floatcontent %}
-
-  {{ pi.content }}
-
-{% else %}
-  <p><em>PI profile not found. Check the collection name and PI identifier.</em></p>
-{% endif %}
--->
-
 ## Highlights
 
 {% capture text %}
