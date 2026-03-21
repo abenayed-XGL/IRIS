@@ -15,8 +15,8 @@ The Intelligent Radio and Integrated Systems Group (IRIS) is led by Prof. Ahmed 
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
-{% include section.html %}
+<{% include section.html %}>
 
-## Members
+<## Members>
 
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
+<{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}>
