@@ -41,7 +41,7 @@ The Intelligent Radio and Integrated Systems (IRIS) Laboratory is currently recr
   This position focuses on the design of efficient RF front-ends for next-generation wireless and satellite communications (SATCOM) systems. Areas of interest include power amplifiers, frequency multipliers, and analog predistortion.  
   *Preferred background:* analog and RF circuit design, electronics, RF/microwave engineering, or related fields.
 
-Prospective postgraduate applicants are encouraged to contact **Prof. Ahmed Ben Ayed** by email with a brief description of their background and research interests.
+Prospective postgraduate applicants are encouraged to contact Prof. Ahmed Ben Ayed by email with a brief description of their background and research interests.
 
 {% include section.html %}
 
