@@ -42,7 +42,7 @@ Beyond the laboratory, IRIS trainees are prepared to contribute as highly skille
 
 {% capture text %}
 
-Explore our work on physical-layer technologies for next-generation wireless and satellite communications, with emphasis on practical, high-performance RF systems.
+Explore our work on physical-layer technologies for next-generation wireless and satellite communications, spanning circuits, antennas, signal processing, and measurement science. <!-- with emphasis on practical, high-performance RF systems -->.
 
 {%
   include button.html
