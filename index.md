@@ -18,31 +18,12 @@ Under the leadership of [Prof. Ahmed Ben Ayed](/IRIS/members/Ahmed_Ben_Ayed.html
 IRIS is committed to educating the next generation of researchers and engineers for leadership in academia and industry.
 
 At IRIS, team members engage in the full research cycle, from theory and design to prototyping and experimental validation. This experience equips graduates with deep technical expertise, strong experimental capability, and a system-level understanding of advanced communication systems.
-<!-- 
-IRIS is committed to training the next generation of researchers and engineers to contribute at the highest levels of academia and industry. 
-
-
-IRIS seeks to bridge the gap between theoretical innovation and practical deployment to deliver efficient, reliable, and scalable communcation systems for 6G and beyond.
-
-
-by co-developing RF circuits and antenna arrays, signal processing algorithms, and measurement techniques as part of a unified system-level design effort — making future communication systems more efficient, reliable, and scalable.
--->
-<!-- 
-
-IRIS adopts a multidisciplinary, system-level approach that spans circuit design, antenna engineering, signal processing, and test and measurement science.
-
-The laboratory focuses on industry-relevant research questions in terrestrial and non-terrestrial communications, with emphasis on practical, high-performance RF systems.
-
-Led by [Prof. Ahmed Ben Ayed](/IRIS/members/Ahmed_Ben_Ayed.html), the research at IRIS combines theoretical analysis, hardware development, and experimental validation using state-of-the-art design tools and measurement equipment to produce impactful prototypes, publications, and future technologies.
-
-Beyond the laboratory, IRIS trainees are prepared to contribute as highly skilled researchers and engineers in academia and industry.
--->
 
 ## Highlights
 
 {% capture text %}
 
-Explore our work on physical-layer technologies for next-generation wireless and satellite communications, spanning circuits, antennas, signal processing, and measurement science. <!-- with emphasis on practical, high-performance RF systems -->
+Explore our work on physical-layer technologies for next-generation wireless and satellite communications, spanning circuits, antennas, signal processing, and measurement science.
 
 {%
   include button.html
