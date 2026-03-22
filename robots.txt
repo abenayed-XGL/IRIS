@@ -1,1 +1,1 @@
-Sitemap: https://abenayed-xgl.github.io/IRIS/sitemap.xml
+Sitemap: http://iris-lab.org/sitemap.xml
