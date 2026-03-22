@@ -23,6 +23,3 @@ Dr. Ben Ayed’s research focuses on advancing physical-layer modeling, design, 
 His research contributions have been recognized through multiple honors, including multiple IMS Top 50 Paper Awards, Advanced Practice Paper Finalist nominations, and Best Student Paper Finalist awards.
 
 Dr. Ben Ayed serves the technical community as a reviewer for major IEEE journals. He is a member of the IEEE Microwave Theory and Techniques Society (MTT-S) and a Young Professional Affiliated Member of the IEEE MTT-S Technical Committee on Wireless Communications (TC-23).
-
-**Prospective students** interested in high-frequency RF circuits and systems, antenna array design, signal processing, and RF measurement techniques are encouraged to reach out. The IRIS Laboratory offers a research environment grounded in strong fundamentals, hands-on experimentation, and close interaction between theory and practice, preparing students for impactful careers in academia and industry.
-
