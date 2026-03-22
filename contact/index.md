@@ -34,4 +34,4 @@ We are happy to provide a guided tour of our facilities and discuss our research
 
 ## {% include icon.html icon="fa-solid fa-briefcase" %} Opportunities
 
-IRIS is actively recruiting postgraduate students and welcomes undergraduates interested in gaining research experience. See our [Opportunities](/opportunities) page for current openings and application instructions.
+IRIS is actively recruiting postgraduate students and welcomes undergraduates interested in gaining research experience. See our [opportunities](/opportunities) page for current openings and application instructions.
