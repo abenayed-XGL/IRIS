@@ -5,6 +5,6 @@
 
   # abenayed-XGL's Website
 
-  Visit **[abenayed-xgl.github.io/IRIS](https://abenayed-xgl.github.io/IRIS)** 🚀
+  Visit **[iris-lab.org](http://iris-lab.org)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
