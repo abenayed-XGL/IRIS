@@ -5,7 +5,7 @@ nav:
 ---
 # {% include icon.html icon="fa-solid fa-briefcase" %} Opportunities
 
-The Intelligent Radio and Integrated Systems Laboratory (IRIS) is actively recruiting motivated students and researchers to join the group. We offer a research environment that combines theoretical analysis, hardware development, and experimental validation using state-of-the-art design tools and measurement equipment.
+The Intelligent Radio and Integrated Systems (IRIS) Laboratory is actively recruiting motivated students and researchers to join the group. We offer a research environment that combines theoretical analysis, hardware development, and experimental validation using state-of-the-art design tools and measurement equipment.
 
 ## Open Postgraduate Positions
 
