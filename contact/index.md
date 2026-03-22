@@ -24,14 +24,16 @@ For inquiries about our research, collaboration, or open positions, please reach
   link="https://www.google.com/maps/search/?api=1&query=HKUST%20Hong%20Kong%20University%20of%20Science%20and%20Technology"
 %}
 
+<!--
 {% include section.html %}
+-->
 
 ## {% include icon.html icon="fa-regular fa-compass" %} Visit Us
 
 We are happy to provide a guided tour of our facilities and discuss our research with potential collaborators, prospective students, and industry partners. Please contact [Prof. Ahmed Ben Ayed](mailto:eebenayed@ust.hk) to arrange a visit.
-
+<!--
 {% include section.html %}
-
+-->
 ## {% include icon.html icon="fa-solid fa-briefcase" %} Opportunities
 
 IRIS is actively recruiting postgraduate students and welcomes undergraduates interested in gaining research experience. See our [opportunities](/opportunities) page for current openings and application instructions.
