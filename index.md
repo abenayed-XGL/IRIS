@@ -74,7 +74,7 @@ Join a growing research group working at the forefront of next-generation RF sys
 
 {%
   include button.html
-  link="Opportunities"
+  link="opportunities"
   text="Join Us"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -86,7 +86,7 @@ Join a growing research group working at the forefront of next-generation RF sys
 {%
   include feature.html
   image="images/join.svg"
-  link="Opportunities"
+  link="opportunities"
   title="Opportunities"
   text=text
 %}
