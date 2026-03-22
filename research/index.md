@@ -13,7 +13,7 @@ In particular, the IRIS Laboratory works on:
 
 - **Advanced hardware-aware digital signal processing**, aimed at enhancing the performance of beamforming-array transceivers through analytical modeling and optimization techniques that explicitly account for practical hardware limitations and system-level interactions.
 
-- **Large-Scale Antenna Arrays for wireless and SATCOM applications**, with emphasis on design methodologies that account for antenna and front-end non-idealities, as well as the integration of sensing capabilities that provide feedback for DSP-based performance enhancement techniques
+- **Large-Scale Antenna Arrays for wireless and SATCOM applications**, with emphasis on design methodologies that account for antenna and front-end non-idealities and the integration of sensing capabilities for DSP-based performance enhancement
   
 - **Novel transceiver and front-end architectures**, enabling efficient and high-linearity signal generation under ultra-wideband and vector-modulated operation, including high-efficiency power amplifiers, frequency multipliers, and analog predistortion techniques
 
