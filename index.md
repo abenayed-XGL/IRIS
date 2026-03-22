@@ -89,7 +89,7 @@ Our members develop a strong system-level understanding of RF technologies and g
 
 {% capture text %}
 
-IRIS welcomes undergraduate and prospective postgraduate students as well as collaborators with interests in RF circuits, antenna arrays, signal processing, and test and measurement. 
+Join a growing research group working at the forefront of next-generation RF systems. IRIS welcomes undergraduate students, prospective postgraduate researchers, and collaborators from academia and industry.
 
 {%
   include button.html
