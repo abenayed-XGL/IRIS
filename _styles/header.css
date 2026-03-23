@@ -134,6 +134,8 @@ header[data-big] .home {
 }
 header[data-big] .logo {
   height: 80px;
+  width: 80px;
+  min-width: 80px;
   flex-shrink: 0;
 }
 header[data-big] .title-text {
