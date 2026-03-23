@@ -152,6 +152,8 @@ header[data-big] {
 
   .logo {
     height: $logo-big;
+    width: $logo-big;
+    min-width: $logo-big;
     flex-shrink: 0;
   }
 
