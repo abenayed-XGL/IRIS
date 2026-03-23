@@ -129,14 +129,6 @@ header:not([data-big]) {
       flex-direction: column;
       width: 100%;
     }
-    .logo {
-      flex-shrink: 0;
-      min-width: $logo;
-      min-height: $logo;
-    }
-    .title-text {
-      overflow: hidden;
-    }
   }
 }
 
