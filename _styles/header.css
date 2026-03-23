@@ -115,6 +115,14 @@ nav > a:hover {
     flex-direction: column;
     width: 100%;
   }
+  header:not([data-big]) .logo {
+    flex-shrink: 0;
+    min-width: 40px;
+    min-height: 40px;
+  }
+  header:not([data-big]) .title-text {
+    overflow: hidden;
+  }
 }
 
 header[data-big] {
