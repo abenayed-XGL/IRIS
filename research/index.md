@@ -11,13 +11,13 @@ Research at the Intelligent Radio and Integrated Systems (IRIS) Laboratory focus
 
 In particular, the IRIS Laboratory works on:
 
-- **Advanced hardware-aware digital signal processing**, aimed at enhancing the performance of beamforming-array transceivers through analytical modeling and optimization techniques that explicitly account for practical hardware limitations and system-level interactions
+- **Advanced hardware-aware digital signal processing**, aimed at enhancing the performance of beamforming-array transceivers through analytical modeling and optimization techniques that explicitly account for practical hardware limitations and system-level interactions.
 
-- **Large-Scale Antenna Arrays for wireless and SATCOM applications**, with emphasis on design methodologies that account for antenna and front-end non-idealities and the integration of sensing capabilities for DSP-based performance enhancement
+- **Large-Scale Antenna Arrays for wireless and SATCOM applications**, with emphasis on design methodologies that account for antenna and front-end non-idealities and the integration of sensing capabilities for DSP-based performance enhancement.
   
-- **Novel transceiver and front-end architectures**, enabling efficient and high-linearity signal generation under ultra-wideband and vector-modulated operation, including high-efficiency power amplifiers, frequency multipliers, and analog predistortion techniques
+- **Novel transceiver and front-end architectures**, enabling efficient and high-linearity signal generation under ultra-wideband and vector-modulated operation, including high-efficiency power amplifiers, frequency multipliers, and analog predistortion techniques.
 
-- **Test and measurement techniques**, including signal pre-processing and post-processing methods that enhance the capabilities of signal generation and signal analysis equipment for advanced RF system characterization and validation, together with digital-twin-based array emulation platforms that enable realistic experimental emulation of large arrays
+- **Test and measurement techniques**, including signal pre-processing and post-processing methods that enhance the capabilities of signal generation and signal analysis equipment for advanced RF system characterization and validation, together with digital-twin-based array emulation platforms that enable realistic experimental emulation of large arrays.
 
 Through its industry-focused and collaborative approach, the IRIS Laboratory provides unique opportunities for students and researchers to engage in cutting-edge work using state-of-the-art design tools and equipment, helping them develop the theoretical and practical skills needed to thrive in academia or industry. 
 
