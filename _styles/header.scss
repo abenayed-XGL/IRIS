@@ -40,11 +40,14 @@ header a {
 
 .logo {
   height: $logo;
+  width: $logo;
+  min-width: $logo;
+  flex-shrink: 0;
 }
-
 .logo > * {
-  width: unset;
+  width: 100%;
   height: 100%;
+  object-fit: contain;
 }
 
 .title-text {
