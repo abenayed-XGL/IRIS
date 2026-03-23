@@ -28,6 +28,7 @@ header a {
 
 .logo {
   height: 40px;
+  flex-shrink: 0;
 }
 
 .logo > * {
