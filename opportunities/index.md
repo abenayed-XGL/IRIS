@@ -33,9 +33,9 @@ HKUST values diversity and welcomes applications from all qualified individuals.
 
 Interested candidates should email a complete application package to [Prof. Ahmed Ben Ayed](mailto:eebenayed@ust.hk), consisting of the following:
 
-* A cover letter stating your research interests and experience, and how they relate to one of the positions described above
-* A curriculum vitae, including the names and contact information of two or three academic or professional references
-* An electronic copy of your most significant research output (thesis, journal paper, or conference publication), if available
+* A cover letter stating your research interests and experience, and how they relate to one of the positions described above.
+* A curriculum vitae, including the names and contact information of two or three academic or professional references.
+* An electronic copy of your most significant research output (thesis, journal paper, or conference publication), if available.
 
 Please attach all documents in PDF format and include the position title (e.g., "PG Application — Digital Signal Processing") in the subject line of your email.
 
