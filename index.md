@@ -38,7 +38,7 @@ Explore our work on physical-layer technologies for next-generation wireless and
 
 {%
   include feature.html
-  image="images/research.png"
+  image="images/research.svg"
   link="research"
   title="Our Research"
   text=text
@@ -61,7 +61,7 @@ Our members develop a strong system-level understanding of RF technologies and g
 
 {%
   include feature.html
-  image="images/team.png"
+  image="images/team.svg"
   link="team"
   title="Our Team"
   text=text
@@ -85,7 +85,7 @@ Join a growing research group working at the forefront of next-generation RF sys
 
 {%
   include feature.html
-  image="images/join.png"
+  image="images/join.svg"
   link="opportunities"
   title="Opportunities"
   text=text
