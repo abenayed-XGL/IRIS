@@ -1,5 +1,32 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1109/LMWT.2026.3676260
+  title: A Two-Tier Low-Complexity Linearization Architecture for Fully Digital mMIMO
+    Transmitters
+  authors:
+  - Jin Gyu Lim
+  - Ahmed Ben Ayed
+  - Slim Boumaiza
+  publisher: IEEE Microwave and Wireless Technology Letters
+  date: '2026-01-01'
+  link: https://doi.org/hbv4cg
+  orcid: 0000-0002-4310-1368
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LMWT.2026.3678018
+  title: Assumption-Free Active Calibration of mm-Wave Phased Arrays Using Excitation
+    Estimation via Far-Field Measurements
+  authors:
+  - Mohammad Abdollah Chalaki
+  - Ahmed Ben Ayed
+  - Patrick Mitran
+  - Slim Boumaiza
+  publisher: IEEE Microwave and Wireless Technology Letters
+  date: '2026-01-01'
+  link: https://doi.org/hbv4ch
+  orcid: 0000-0002-4310-1368
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/MMM.2026.3652159
   title: Robust Digital Predistortion of Load-Modulated Power Amplifiers Under Varying
     Signal Conditions
