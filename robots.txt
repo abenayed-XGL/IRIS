@@ -1,1 +1,1 @@
-Sitemap: https://iris-lab.org/sitemap.xml
+Sitemap: http://iris-lab.org/sitemap.xml
