@@ -1,7 +1,8 @@
 ---
 name: Yufeng Zhang
 image: images/team/Yufeng-Zhang.jpg
-role: Student
+role: student
+title: MPhil Student
 affiliation: The Hong Kong University of Science and Technology (HKUST)
 aliases:
   - Yufeng Zhang
