@@ -18,7 +18,7 @@ The Intelligent Radio and Integrated Systems (IRIS) Laboratory is led by [Prof. 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
 
-{% comment %}
+%%{% comment %}
 {% include section.html %}
 
 
@@ -26,4 +26,4 @@ The Intelligent Radio and Integrated Systems (IRIS) Laboratory is led by [Prof. 
 
 {% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
 
-{% endcomment %}
+%%{% endcomment %}
