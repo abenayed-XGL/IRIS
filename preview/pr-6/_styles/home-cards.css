@@ -1,0 +1,85 @@
+@charset "UTF-8";
+/* Home page "Highlights" cards (index.md). Named home-card so they do not clash with the code-block .highlight style.
+   Icons are tinted with --primary so they work in light and dark mode. */
+.home-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 24px;
+  margin: 32px 0 48px;
+}
+
+.home-card {
+  display: flex;
+  flex-direction: column;
+  padding: 28px 24px 24px;
+  background: var(--background-alt);
+  border: 1px solid var(--light-gray);
+  border-radius: 10px;
+  color: var(--text);
+  text-align: left;
+  text-decoration: none;
+  transition: transform var(--transition), box-shadow var(--transition), border-color var(--transition);
+}
+
+.home-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--primary);
+  box-shadow: 0 10px 28px var(--overlay);
+}
+
+.home-card-icon {
+  width: 72px;
+  height: 72px;
+  border-radius: 16px;
+  display: grid;
+  place-items: center;
+  background: color-mix(in srgb, var(--primary) 12%, transparent);
+  margin-bottom: 20px;
+}
+
+.home-card-icon span {
+  width: 58px;
+  height: 58px;
+  background-color: var(--primary);
+  -webkit-mask: var(--icon) center/contain no-repeat;
+  mask: var(--icon) center/contain no-repeat;
+}
+
+.home-card h3 {
+  margin: 0 0 10px;
+  font-size: var(--large);
+  font-weight: var(--semi-bold);
+  text-align: left;
+}
+
+.home-card p {
+  margin: 0 0 20px;
+  text-align: left;
+  line-height: 1.6;
+  color: var(--dark-gray);
+  flex-grow: 1;
+}
+
+.home-card-link {
+  align-self: flex-start;
+  font-weight: var(--semi-bold);
+  color: var(--primary);
+}
+
+.home-card-link::after {
+  content: " →";
+  display: inline-block;
+  transition: transform var(--transition);
+}
+
+.home-card:hover .home-card-link::after {
+  transform: translateX(4px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .home-card, .home-card-link::after {
+    transition: none;
+  }
+}
+
+/*# sourceMappingURL=home-cards.css.map */
