@@ -65,6 +65,10 @@ def main(entry):
 
     # go through each source
     for work in response:
+        # patents are listed on their own page (see _cite/patents.py)
+        if any(get_safe(s, "type", "") == "patent" for s in get_safe(work, "work-summary", [])):
+            continue
+
         # list of ids in source
         ids = []
 

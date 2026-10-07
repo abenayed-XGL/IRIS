@@ -57,3 +57,9 @@
 [data-dark="true"] .venue[data-kind="conference"] { --venue: #c4b5fd; }
 [data-dark="false"] .venue[data-kind="magazine"] { --venue: #0f766e; }
 [data-dark="true"] .venue[data-kind="magazine"] { --venue: #5eead4; }
+
+/* Patents page badges: granted = green, application = amber */
+[data-dark="false"] .venue[data-kind="granted"] { --venue: #15803d; }
+[data-dark="true"] .venue[data-kind="granted"] { --venue: #4ade80; }
+[data-dark="false"] .venue[data-kind="application"] { --venue: #b45309; }
+[data-dark="true"] .venue[data-kind="application"] { --venue: #fbbf24; }
