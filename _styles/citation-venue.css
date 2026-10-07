@@ -84,4 +84,66 @@
   --venue: #fbbf24;
 }
 
+/* Publication counters (_includes/publication-stats.html) */
+.pub-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 16px;
+  margin: 28px 0 8px;
+}
+
+.pub-stat {
+  padding: 16px 18px;
+  border: 1px solid var(--light-gray);
+  border-left: 4px solid var(--venue);
+  border-radius: 10px;
+  background: var(--background-alt);
+  text-align: center;
+}
+
+.pub-stat b {
+  display: block;
+  font-size: 2rem;
+  line-height: 1.1;
+  font-weight: 600;
+  color: var(--venue);
+}
+
+.pub-stat span {
+  font-size: 0.92rem;
+  color: var(--dark-gray);
+}
+
+[data-dark=false] .pub-stat {
+  --venue: #404040;
+}
+
+[data-dark=true] .pub-stat {
+  --venue: #e5e5e5;
+}
+
+[data-dark=false] .pub-stat[data-kind=journal] {
+  --venue: #0369a1;
+}
+
+[data-dark=true] .pub-stat[data-kind=journal] {
+  --venue: #38bdf8;
+}
+
+[data-dark=false] .pub-stat[data-kind=conference] {
+  --venue: #6d28d9;
+}
+
+[data-dark=true] .pub-stat[data-kind=conference] {
+  --venue: #c4b5fd;
+}
+
+[data-dark=false] .pub-stat[data-kind=magazine] {
+  --venue: #0f766e;
+}
+
+[data-dark=true] .pub-stat[data-kind=magazine] {
+  --venue: #5eead4;
+}
+
 /*# sourceMappingURL=citation-venue.css.map */
