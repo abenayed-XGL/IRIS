@@ -18,12 +18,30 @@
         class="citation-image"
         aria-label="{{ citation.title | default: "citation link" | regex_strip }}"
       >
-        <img
-          src="{{ citation.image | relative_url | uri_escape }}"
-          alt="{{ citation.title | default: "citation image" | regex_strip }}"
-          loading="lazy"
-          {% include fallback.html %}
-        >
+        {% if citation.image %}
+          <img
+            src="{{ citation.image | relative_url | uri_escape }}"
+            alt="{{ citation.title | default: "citation image" | regex_strip }}"
+            loading="lazy"
+            {% include fallback.html %}
+          >
+        {% else %}
+          {% comment %} no image: show a venue badge from _data/venues.yaml {% endcomment %}
+          {% assign publisher = citation.publisher | default: "" | downcase %}
+          {% assign venue = nil %}
+          {% for v in site.data.venues %}
+            {% assign needle = v.match | downcase %}
+            {% if publisher contains needle %}
+              {% assign venue = v %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+          <span class="venue" data-kind="{{ venue.kind | default: "publication" }}" aria-hidden="true">
+            <span class="venue-org">{{ venue.org | default: "IEEE" }}</span>
+            <span class="venue-name">{{ venue.short | default: "Paper" }}</span>
+            <span class="venue-kind">{{ venue.kind | default: "publication" }}</span>
+          </span>
+        {% endif %}
       </a>
     {% endif %}
 

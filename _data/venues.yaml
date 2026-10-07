@@ -1,0 +1,36 @@
+# Venue badges on the Publications page (shown when a paper has no image).
+# A paper matches the first entry whose "match" text appears in its publisher name.
+# org: top line · short: big abbreviation · kind: journal | conference | magazine
+
+- match: Transactions on Microwave Theory
+  org: IEEE
+  short: T-MTT
+  kind: journal
+- match: Wireless Technology Letters
+  org: IEEE
+  short: MWTL
+  kind: journal
+- match: Wireless Components Letters
+  org: IEEE
+  short: MWCL
+  kind: journal
+- match: Microwave Magazine
+  org: IEEE
+  short: MAG
+  kind: magazine
+- match: IEEE Access
+  org: IEEE
+  short: Access
+  kind: journal
+- match: International Microwave Symposium
+  org: IEEE
+  short: IMS
+  kind: conference
+- match: ARFTG
+  org: IEEE
+  short: ARFTG
+  kind: conference
+- match: European Microwave
+  org: EuMA
+  short: EuMC
+  kind: conference
