@@ -19,7 +19,7 @@ The Intelligent Radio and Integrated Systems (IRIS) Laboratory is based in the D
   <a class="home-card" href="https://www.google.com/maps/search/?api=1&query=HKUST%20Hong%20Kong%20University%20of%20Science%20and%20Technology" target="_blank" rel="noopener">
     <div class="home-card-icon"><span style="--icon: url('{{ "images/contact/address.svg" | relative_url }}'); width: 34px; height: 40px"></span></div>
     <h3>Address</h3>
-    <p>Department of Electronic and Computer Engineering<br>The Hong Kong University of Science and Technology<br>Clear Water Bay, Kowloon, Hong Kong</p>
+    <p>Room 2422<br>Department of Electronic and Computer Engineering<br>The Hong Kong University of Science and Technology<br>Clear Water Bay, Kowloon, Hong Kong</p>
     <span class="home-card-link">Open in Google Maps</span>
   </a>
   <a class="home-card" href="mailto:eebenayed@ust.hk?subject=Lab%20visit%20request">
