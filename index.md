@@ -22,23 +22,23 @@ At IRIS, team members engage in the full research cycle, from theory and design 
 ## Highlights
 
 <!-- Edit the cards below: title, description, link and icon. -->
-<div class="highlights">
-  <a class="highlight" href="{{ "research" | relative_url }}">
-    <div class="highlight-icon"><span style="--icon: url('{{ "images/research.svg" | relative_url }}')"></span></div>
+<div class="home-cards">
+  <a class="home-card" href="{{ "research" | relative_url }}">
+    <div class="home-card-icon"><span style="--icon: url('{{ "images/research.svg?v=2" | relative_url }}')"></span></div>
     <h3>Our Research</h3>
     <p>Explore our work on physical-layer technologies for next-generation wireless and satellite communications, spanning circuits, antennas, signal processing, and measurement science.</p>
-    <span class="highlight-link">See our research</span>
+    <span class="home-card-link">See our research</span>
   </a>
-  <a class="highlight" href="{{ "team" | relative_url }}">
-    <div class="highlight-icon"><span style="--icon: url('{{ "images/team.svg" | relative_url }}')"></span></div>
+  <a class="home-card" href="{{ "team" | relative_url }}">
+    <div class="home-card-icon"><span style="--icon: url('{{ "images/team.svg?v=2" | relative_url }}')"></span></div>
     <h3>Our Team</h3>
     <p>Our members develop a strong system-level understanding of RF technologies and gain hands-on experience that prepares them for careers in academia and industry.</p>
-    <span class="highlight-link">Meet our team</span>
+    <span class="home-card-link">Meet our team</span>
   </a>
-  <a class="highlight" href="{{ "opportunities" | relative_url }}">
-    <div class="highlight-icon"><span style="--icon: url('{{ "images/join.svg" | relative_url }}')"></span></div>
+  <a class="home-card" href="{{ "opportunities" | relative_url }}">
+    <div class="home-card-icon"><span style="--icon: url('{{ "images/join.svg?v=2" | relative_url }}')"></span></div>
     <h3>Opportunities</h3>
     <p>Join a growing research group working at the forefront of next-generation RF systems. IRIS welcomes undergraduate students, prospective postgraduate researchers, and collaborators from academia and industry.</p>
-    <span class="highlight-link">Join Us</span>
+    <span class="home-card-link">Join Us</span>
   </a>
 </div>
