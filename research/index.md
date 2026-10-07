@@ -25,7 +25,7 @@ Research at the Intelligent Radio and Integrated Systems (IRIS) Laboratory focus
   <div class="home-card">
     <div class="home-card-icon"><span style="--icon: url('{{ "images/research/circuit.svg?v=3" | relative_url }}')"></span></div>
     <h3>High-performance RF front ends</h3>
-    <p>Design and linearization of high-efficiency RF front ends for the generation of ultra-wideband, vector-modulated signals, including power amplifiers, frequency multipliers, and analog predistortion.</p>
+    <p>Design and linearization of high-efficiency RF front ends for ultra-wideband vector-modulated signal generation, including power amplifiers, frequency multipliers, and analog predistortion.</p>
   </div>
   <div class="home-card">
     <div class="home-card-icon"><span style="--icon: url('{{ "images/research/measurement.svg?v=4" | relative_url }}')"></span></div>
