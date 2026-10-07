@@ -1,0 +1,32 @@
+{% comment %}
+  Publication counters (Publications page). Types come from _data/venues.yaml,
+  the same list used for the venue badges, so the numbers update automatically.
+{% endcomment %}
+{% assign journals = 0 %}
+{% assign conferences = 0 %}
+{% assign magazines = 0 %}
+{% for citation in site.data.citations %}
+  {% assign publisher = citation.publisher | default: "" | downcase %}
+  {% assign kind = "" %}
+  {% for v in site.data.venues %}
+    {% assign needle = v.match | downcase %}
+    {% if publisher contains needle %}
+      {% assign kind = v.kind %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+  {% case kind %}
+    {% when "journal" %}{% assign journals = journals | plus: 1 %}
+    {% when "conference" %}{% assign conferences = conferences | plus: 1 %}
+    {% when "magazine" %}{% assign magazines = magazines | plus: 1 %}
+  {% endcase %}
+{% endfor %}
+
+<div class="pub-stats">
+  <div class="pub-stat"><b>{{ site.data.citations.size }}</b><span>Publications</span></div>
+  <div class="pub-stat" data-kind="journal"><b>{{ journals }}</b><span>Journal articles</span></div>
+  <div class="pub-stat" data-kind="conference"><b>{{ conferences }}</b><span>Conference papers</span></div>
+  {% if magazines > 0 %}
+    <div class="pub-stat" data-kind="magazine"><b>{{ magazines }}</b><span>Magazine articles</span></div>
+  {% endif %}
+</div>
