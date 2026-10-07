@@ -34,8 +34,8 @@ Research at the Intelligent Radio and Integrated Systems (IRIS) Laboratory focus
   </div>
 </div>
 
-## Collaboration and Training
+## Research Training
 
-Through its industry-focused and collaborative approach, the IRIS Laboratory provides unique opportunities for students and researchers to engage in cutting-edge work using state-of-the-art design tools and equipment, helping them develop the theoretical and practical skills needed to thrive in academia or industry. 
+At IRIS, students and researchers engage in cutting-edge, industry-focused research using state-of-the-art design tools and equipment, developing the theoretical and practical skills needed to thrive in academia or industry.
 
 Prospective students and collaborators are encouraged to explore our [published research work](/publications) or [contact us](/contact) directly.
