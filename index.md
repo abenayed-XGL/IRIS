@@ -5,7 +5,7 @@ nav:
 ---
 
 ## Our Mission
-The Intelligent Radio and Integrated Systems (IRIS) Laboratory within the Department of Electronic and Computer Engineering is dedicated to advancing next-generation RF circuits and systems for terrestrial and non-terrestrial communications.
+The Intelligent Radio and Integrated Systems (IRIS) Laboratory in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST) is dedicated to advancing next-generation RF circuits and systems for terrestrial and non-terrestrial communications.
 
 IRIS works to bridge the gap between theoretical innovation and real-world deployment — making future communication systems more efficient, reliable, and scalable.
 
@@ -29,7 +29,7 @@ IRIS works to bridge the gap between theoretical innovation and real-world deplo
     <div class="home-card-icon"><span style="--icon: url('{{ "images/join.svg?v=2" | relative_url }}')"></span></div>
     <h3>Opportunities</h3>
     <p>Join a growing research group working at the forefront of next-generation RF systems. IRIS welcomes undergraduate students, prospective postgraduate researchers, and collaborators from academia and industry.</p>
-    <span class="home-card-link">Join Us</span>
+    <span class="home-card-link">Join us</span>
   </a>
 </div>
 
