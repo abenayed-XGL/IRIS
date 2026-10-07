@@ -13,22 +13,22 @@ In particular, the IRIS Laboratory works on:
 
 <div class="home-cards" data-cols="2">
   <div class="home-card">
-    <div class="home-card-icon"><i class="fa-solid fa-wave-square"></i></div>
+    <div class="home-card-icon"><span style="--icon: url('{{ "images/research/dsp.svg" | relative_url }}')"></span></div>
     <h3>Advanced hardware-aware digital signal processing</h3>
     <p>Aimed at enhancing the performance of beamforming-array transceivers through analytical modeling and optimization techniques that explicitly account for practical hardware limitations and system-level interactions.</p>
   </div>
   <div class="home-card">
-    <div class="home-card-icon"><i class="fa-solid fa-satellite-dish"></i></div>
+    <div class="home-card-icon"><span style="--icon: url('{{ "images/research/antenna.svg" | relative_url }}')"></span></div>
     <h3>Large-scale antenna arrays for wireless and SATCOM applications</h3>
     <p>With emphasis on design methodologies that account for antenna and front-end non-idealities and the integration of sensing capabilities for DSP-based performance enhancement.</p>
   </div>
   <div class="home-card">
-    <div class="home-card-icon"><i class="fa-solid fa-tower-broadcast"></i></div>
+    <div class="home-card-icon"><span style="--icon: url('{{ "images/research/circuit.svg" | relative_url }}')"></span></div>
     <h3>Novel transceiver and front-end architectures</h3>
     <p>Enabling efficient and high-linearity signal generation under ultra-wideband and vector-modulated operation, including high-efficiency power amplifiers, frequency multipliers, and analog predistortion techniques.</p>
   </div>
   <div class="home-card">
-    <div class="home-card-icon"><i class="fa-solid fa-gauge-high"></i></div>
+    <div class="home-card-icon"><span style="--icon: url('{{ "images/research/measurement.svg" | relative_url }}')"></span></div>
     <h3>Test and measurement techniques</h3>
     <p>Including signal pre-processing and post-processing methods that enhance the capabilities of signal generation and signal analysis equipment for advanced RF system characterization and validation, together with digital-twin-based array emulation platforms that enable realistic experimental emulation of large arrays.</p>
   </div>
