@@ -5,9 +5,10 @@ nav:
 ---
 
 ## Our Mission
-The Intelligent Radio and Integrated Systems (IRIS) Laboratory in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST) is dedicated to advancing next-generation RF circuits and systems for terrestrial and non-terrestrial communications.
 
-IRIS works to bridge the gap between theoretical innovation and real-world deployment — making future communication systems more efficient, reliable, and scalable.
+The Intelligent Radio and Integrated Systems (IRIS) Laboratory at HKUST develops enabling physical-layer technologies for next-generation wireless and satellite communications.
+
+Our research advances RF circuits and systems, antenna arrays, signal processing, and test and measurement through hardware-aware, system-level design, with the goal of enabling practical, high-performance communication systems.
 
 ## Highlights
 
@@ -34,9 +35,10 @@ IRIS works to bridge the gap between theoretical innovation and real-world deplo
 </div>
 
 ## Our Approach
-IRIS adopts a multidisciplinary, system-level approach spanning RF circuit design, antenna engineering, signal processing, and test and measurement science to advance radiofrequency communication science and technology. Research in these areas is carried out with the broader system in mind, ensuring that advances at the component or algorithm level translate meaningfully to overall system performance.
 
-Under the leadership of [Prof. Ahmed Ben Ayed](/members/Ahmed_Ben_Ayed.html), research at IRIS combines theoretical analysis, hardware development, and experimental validation using state-of-the-art design tools and measurement equipment to deliver prototypes, scholarly publications, and enabling technologies.
+IRIS brings together RF circuit design, antenna engineering, signal processing, and test and measurement rather than treating them as isolated research areas. We study the interactions between hardware, algorithms, and the propagation environment and use them to guide the design and optimization of the complete RF system.
+
+Our work combines analytical modeling, circuit and electromagnetic design, signal processing, hardware prototyping, and experimental validation.
 
 ## Training the Next Generation
 IRIS is committed to educating the next generation of researchers and engineers for leadership in academia and industry.
