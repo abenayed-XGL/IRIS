@@ -1,0 +1,97 @@
+---
+---
+
+/* Site refresh (Oct 2026): readability and consistency tweaks layered on the template.
+   Remove this file to return to the previous look. */
+
+/* 1. Text: left-aligned paragraphs and lighter line spacing */
+:root {
+  --spacing: 1.75;
+}
+
+p,
+li {
+  text-align: left;
+}
+
+/* 2. Header and footer: dark tint over the wave so white text stays crisp */
+header.background:before,
+footer.background:before {
+  background-image: linear-gradient(rgb(0 0 0 / 38%), rgb(0 0 0 / 38%)), var(--image);
+}
+
+header nav > a {
+  text-shadow: 0 1px 3px rgb(0 0 0 / 45%);
+}
+
+footer {
+  gap: 12px;
+  padding: 28px 20px;
+  font-size: 0.95rem;
+}
+
+/* 3. Section headings: one consistent style (page titles stay centred capitals) */
+h2 {
+  margin-top: 48px;
+  letter-spacing: 0.5px;
+}
+
+/* 5. Team: name in text colour, role muted, affiliation only on profile pages */
+a.portrait {
+  color: var(--text);
+}
+
+a.portrait:hover .portrait-name {
+  color: var(--primary);
+}
+
+.portrait-name {
+  font-size: 1.1rem;
+  margin-bottom: 2px;
+}
+
+.portrait-description {
+  color: var(--dark-gray);
+  font-size: 0.95rem;
+}
+
+.portrait .portrait-affiliation {
+  display: none;
+}
+
+.float .portrait .portrait-affiliation {
+  display: block;
+  color: var(--dark-gray);
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.portrait-image {
+  transition: transform var(--transition), box-shadow var(--transition);
+}
+
+a.portrait:hover .portrait-image {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px var(--overlay);
+}
+
+/* Profile pages: keep text beside the photo column instead of wrapping under it */
+.float ~ p {
+  display: flow-root;
+}
+
+/* 4. Cards that are not links (Research themes) */
+div.home-card:hover {
+  transform: none;
+  border-color: var(--light-gray);
+  box-shadow: none;
+}
+
+.home-card-icon i {
+  font-size: 30px;
+  color: var(--primary);
+}
+
+.home-cards[data-cols="2"] {
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+}
