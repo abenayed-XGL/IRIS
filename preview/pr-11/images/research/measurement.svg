@@ -1,19 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="#000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
   <!-- instrument body and feet -->
-  <rect x="3" y="7" width="42" height="31" rx="3"/>
-  <path d="M9 38v3M39 38v3"/>
-  <!-- screen -->
-  <rect x="7" y="11" width="24" height="23" rx="1.5"/>
+  <rect x="2" y="9" width="44" height="29" rx="2.5"/>
+  <path d="M7 38v3M41 38v3"/>
+  <!-- display -->
+  <rect x="5" y="12" width="25" height="18" rx="1"/>
   <!-- Smith chart -->
-  <g stroke-width="1.5">
-    <circle cx="19" cy="22.5" r="8.5"/>
-    <path d="M10.5 22.5h17"/>
-    <circle cx="23.25" cy="22.5" r="4.25"/>
-    <path d="M27.5 22.5A8.5 8.5 0 0 1 19 14M27.5 22.5A8.5 8.5 0 0 0 19 31"/>
+  <g stroke-width="1.4">
+    <circle cx="17.5" cy="21" r="7"/>
+    <path d="M10.5 21h14"/>
+    <circle cx="21" cy="21" r="3.5"/>
+    <path d="M24.5 21A7 7 0 0 1 17.5 14"/>
+    <path d="M24.5 21A7 7 0 0 0 17.5 28"/>
   </g>
-  <!-- knobs and ports -->
-  <circle cx="38" cy="16" r="3"/>
-  <circle cx="38" cy="25" r="2"/>
-  <circle cx="35.5" cy="32" r="1.4"/>
-  <circle cx="41" cy="32" r="1.4"/>
+  <!-- rotary knob -->
+  <circle cx="39" cy="16.5" r="3.6"/>
+  <path d="M39 16.5l1.8-1.8" stroke-width="1.8"/>
+  <!-- keys -->
+  <g stroke-width="1.6">
+    <rect x="34" y="23" width="3.6" height="2.6" rx="0.4"/><rect x="40.2" y="23" width="3.6" height="2.6" rx="0.4"/>
+    <rect x="34" y="27.6" width="3.6" height="2.6" rx="0.4"/><rect x="40.2" y="27.6" width="3.6" height="2.6" rx="0.4"/>
+  </g>
+  <!-- test ports and power -->
+  <circle cx="21" cy="34" r="1.9"/><circle cx="29" cy="34" r="1.9"/>
+  <path d="M6 34h4" stroke-width="2"/>
 </svg>
