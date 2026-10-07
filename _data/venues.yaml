@@ -16,7 +16,7 @@
   kind: journal
 - match: Microwave Magazine
   org: IEEE
-  short: MAG
+  short: Microwave
   kind: magazine
 - match: IEEE Access
   org: IEEE
