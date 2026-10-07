@@ -1,15 +1,16 @@
 ---
 ---
 
-// Home page "Highlights" cards (index.md). Icons are tinted with --primary so they work in light and dark mode.
+/* Home page "Highlights" cards (index.md). Named home-card so they do not clash with the code-block .highlight style.
+   Icons are tinted with --primary so they work in light and dark mode. */
 
-.highlights {
+.home-cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 24px;
   margin: 32px 0 48px;
 }
-.highlight {
+.home-card {
   display: flex;
   flex-direction: column;
   padding: 28px 24px 24px;
@@ -21,12 +22,12 @@
   text-decoration: none;
   transition: transform var(--transition), box-shadow var(--transition), border-color var(--transition);
 }
-.highlight:hover {
+.home-card:hover {
   transform: translateY(-3px);
   border-color: var(--primary);
   box-shadow: 0 10px 28px var(--overlay);
 }
-.highlight-icon {
+.home-card-icon {
   width: 72px;
   height: 72px;
   border-radius: 16px;
@@ -35,40 +36,40 @@
   background: color-mix(in srgb, var(--primary) 12%, transparent);
   margin-bottom: 20px;
 }
-.highlight-icon span {
-  width: 46px;
-  height: 46px;
+.home-card-icon span {
+  width: 58px;
+  height: 58px;
   background-color: var(--primary);
   -webkit-mask: var(--icon) center / contain no-repeat;
   mask: var(--icon) center / contain no-repeat;
 }
-.highlight h3 {
+.home-card h3 {
   margin: 0 0 10px;
   font-size: var(--large);
   font-weight: var(--semi-bold);
   text-align: left;
 }
-.highlight p {
+.home-card p {
   margin: 0 0 20px;
   text-align: left;
   line-height: 1.6;
   color: var(--dark-gray);
   flex-grow: 1;
 }
-.highlight-link {
+.home-card-link {
   align-self: flex-start;
   font-weight: var(--semi-bold);
   color: var(--primary);
 }
-.highlight-link::after {
+.home-card-link::after {
   content: " →";
   display: inline-block;
   transition: transform var(--transition);
 }
-.highlight:hover .highlight-link::after {
+.home-card:hover .home-card-link::after {
   transform: translateX(4px);
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .highlight, .highlight-link::after { transition: none; }
+  .home-card, .home-card-link::after { transition: none; }
 }
