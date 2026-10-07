@@ -9,7 +9,7 @@ aliases:
   - A. Ben Ayed
   - A. B. Ayed
 links:
-  home-page: https://abenayed-xgl.github.io/IRIS/
+  home-page: https://iris-lab.org
   google-scholar: https://scholar.google.com/citations?user=X3t3jt0AAAAJ
   orcid: 0000-0002-4310-1368
 ---
@@ -20,7 +20,7 @@ He received the BEng degree in Electronic Engineering, with a Minor in Mathemati
 
 Prof. Ben Ayed’s research focuses on advancing physical-layer modeling, design, and optimization for next-generation wireless and satellite communications (SATCOM) systems. His work spans nonlinear behavioral modeling, advanced signal processing, beamforming antenna arrays, and high-frequency measurement science.
 
-His research contributions have been recognized through multiple honors, including multiple IMS Top 50 Paper Awards, Advanced Practice Paper Finalist nominations, and Best Student Paper Finalist awards.
+His research contributions have been recognized through several honors, including multiple IMS Top 50 Paper Awards and finalist recognitions for Advanced Practice Paper and Best Student Paper awards.
 
-Prof. Ben Ayed serves the technical community as a reviewer for major IEEE journals. He is a member of the IEEE Microwave Theory and Techniques Society (MTT-S) and a member of the IEEE MTT-S Technical Committee on Wireless Communications (TC-23).
+Prof. Ben Ayed serves the technical community as a reviewer for major IEEE journals. He is a member of the IEEE Microwave Theory and Techniques Society (MTT-S) and its Technical Committee on Wireless Communications (TC-23).
 

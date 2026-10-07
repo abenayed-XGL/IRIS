@@ -21,7 +21,7 @@ The Intelligent Radio and Integrated Systems (IRIS) Laboratory is actively recru
     <div class="home-card-icon"><span style="--icon: url('{{ "images/research/antenna.svg?v=4" | relative_url }}'); width: 42px; height: 42px"></span></div>
     <div class="home-card-eyebrow">Postgraduate position</div>
     <h3>Antenna Design and System Integration</h3>
-    <p>Designing antennas and arrays, RF passive circuits, and system-level integration for next-generation wireless systems, with emphasis on sub-10 GHz MIMO transmitters and millimeter-wave SATCOM beamforming arrays.</p>
+    <p>Designing antennas, arrays, and RF passive circuits, and their system-level integration for next-generation wireless systems, with emphasis on sub-10 GHz MIMO transmitters and millimeter-wave SATCOM beamforming arrays.</p>
     <div class="home-card-meta"><em>Preferred background:</em> electromagnetics, antenna theory, RF/microwave engineering, or related fields.</div>
   </div>
   <div class="home-card">
