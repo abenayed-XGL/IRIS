@@ -9,7 +9,7 @@ nav:
 
 Research at the Intelligent Radio and Integrated Systems (IRIS) Laboratory focuses on next-generation RF circuits and systems for terrestrial and non-terrestrial communications. The laboratory adopts a holistic, system-level approach that tightly integrates digital signal processing, antenna and circuit design, and test and measurement techniques to enable practical, high-performance RF systems.
 
-In particular, the IRIS Laboratory works on:
+## Research Areas
 
 <div class="home-cards" data-cols="2">
   <div class="home-card">
@@ -34,6 +34,8 @@ In particular, the IRIS Laboratory works on:
   </div>
 </div>
 
-Through its industry-focused and collaborative approach, the IRIS Laboratory provides unique opportunities for students and researchers to engage in cutting-edge work using state-of-the-art design tools and equipment, helping them develop the theoretical and practical skills needed to thrive in academia or industry. 
+## Research Training
+
+At IRIS, students and researchers engage in cutting-edge, industry-focused research using state-of-the-art design tools and equipment, developing the theoretical and practical skills needed to thrive in academia or industry.
 
 Prospective students and collaborators are encouraged to explore our [published research work](/publications) or [contact us](/contact) directly.
