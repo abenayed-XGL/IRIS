@@ -63,8 +63,51 @@ def status_of(country, kind):
     return "Application"
 
 
+SMALL_WORDS = {"a", "an", "and", "as", "at", "by", "for", "in", "of", "on", "or", "the", "to", "via", "with"}
+ACRONYMS = {"RF", "MIMO", "DPD", "OTA", "PA", "PAS", "5G", "6G", "ADC", "DAC", "VNA", "EVM", "PCB", "MMIC", "LTE", "IQ", "I/Q", "MM-WAVE", "SATCOM"}
+
+
+def title_case(text):
+    """Patent offices often supply titles in ALL CAPS; convert to normal title case."""
+    if not text or text != text.upper():
+        return text
+    words = text.split()
+    out = []
+    for i, word in enumerate(words):
+        if word in ACRONYMS:
+            out.append({"PAS": "PAs", "MM-WAVE": "mm-Wave"}.get(word, word))
+        elif "/" in word:
+            out.append("/".join(w.lower() if w.lower() in SMALL_WORDS else w.capitalize() for w in word.split("/")))
+        elif i > 0 and word.lower() in SMALL_WORDS:
+            out.append(word.lower())
+        else:
+            out.append("-".join(w.capitalize() for w in word.split("-")))
+    return " ".join(out)
+
+
+def known_authors():
+    """Author names as written on the lab's papers, keyed by their set of name parts."""
+    names = {}
+    try:
+        for citation in load_data("_data/citations.yaml") or []:
+            for author in get_safe(citation, "authors", []) or []:
+                names.setdefault(frozenset(str(author).lower().split()), author)
+    except Exception:
+        pass
+    return names
+
+
+def tidy_name(name, names):
+    """'Ayed Ahmed Ben' -> 'Ahmed Ben Ayed' when that person appears on a paper."""
+    match = names.get(frozenset(name.lower().split()))
+    if match:
+        return match
+    return name.title() if name == name.upper() else name
+
+
 def build(orcid_ids):
     patents = []
+    names = known_authors()
     for orcid in orcid_ids:
         groups = get_safe(fetch(f"{orcid}/works"), "group", [])
         for group in groups:
@@ -106,9 +149,9 @@ def build(orcid_ids):
                 get_safe(c, "credit-name.value", "")
                 for c in get_safe(work, "contributors.contributor", []) or []
             ]
-            inventors = [name for name in inventors if name]
+            inventors = [tidy_name(name, names) for name in inventors if name]
 
-            patent = {"title": get_safe(work, "title.title.value", "") or "[untitled patent]"}
+            patent = {"title": title_case(get_safe(work, "title.title.value", "")) or "[untitled patent]"}
             if number:
                 country, digits, kind = number
                 patent["number"] = display_number(country, digits, kind)
@@ -137,5 +180,5 @@ def main(output_file="_data/patents.yaml"):
     save_data(output_file, patents)
     for p in patents:
         # visible in the GitHub Actions run summary
-        print(f"::notice title=Patent::{json.dumps(p, ensure_ascii=False)}")
+        print(f"::notice title=Patent::{p.get('number', '')} | {p.get('title', '')}", flush=True)
     return len(patents)

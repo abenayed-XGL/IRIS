@@ -1,1 +1,7 @@
-[]
+# Manual adjustments to the publication list.
+# "remove: true" hides an entry that ORCID provides but is not a lab paper.
+
+- id: doi:10.1177/02184923231216131
+  remove: true # medical paper by a different Ahmed Ben Ayed
+- id: doi:10.1109/ims37962.2022.9865254
+  remove: true # IMS 2022 "Brief Author Index" (proceedings front matter)
