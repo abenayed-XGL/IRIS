@@ -14,23 +14,23 @@ Research at the Intelligent Radio and Integrated Systems (IRIS) Laboratory focus
 <div class="home-cards" data-cols="2">
   <div class="home-card">
     <div class="home-card-icon"><span style="--icon: url('{{ "images/research/dsp.svg?v=3" | relative_url }}')"></span></div>
-    <h3>Advanced hardware-aware digital signal processing</h3>
-    <p>Aimed at enhancing the performance of beamforming-array transceivers through analytical modeling and optimization techniques that explicitly account for practical hardware limitations and system-level interactions.</p>
+    <h3>Hardware-aware digital signal processing</h3>
+    <p>Modeling and mitigation techniques that account for practical hardware limitations and system-level interactions to improve beamforming-array transceiver performance.</p>
   </div>
   <div class="home-card">
     <div class="home-card-icon"><span style="--icon: url('{{ "images/research/antenna.svg?v=3" | relative_url }}'); width: 42px; height: 42px"></span></div>
-    <h3>Large-scale antenna arrays for wireless and SATCOM applications</h3>
-    <p>With emphasis on design methodologies that account for antenna and front-end non-idealities and the integration of sensing capabilities for DSP-based performance enhancement.</p>
+    <h3>Large-scale antenna arrays</h3>
+    <p>Array design that jointly considers electromagnetic behavior, RF front-end non-idealities, and integrated sensing for DSP-assisted performance enhancement.</p>
   </div>
   <div class="home-card">
     <div class="home-card-icon"><span style="--icon: url('{{ "images/research/circuit.svg?v=3" | relative_url }}')"></span></div>
-    <h3>Novel transceiver and front-end architectures</h3>
-    <p>Enabling efficient and high-linearity signal generation under ultra-wideband and vector-modulated operation, including high-efficiency power amplifiers, frequency multipliers, and analog predistortion techniques.</p>
+    <h3>High-performance RF front ends</h3>
+    <p>Design and linearization of high-efficiency RF front ends for the generation of ultra-wideband, vector-modulated signals, including power amplifiers, frequency multipliers, and analog predistortion.</p>
   </div>
   <div class="home-card">
     <div class="home-card-icon"><span style="--icon: url('{{ "images/research/measurement.svg?v=4" | relative_url }}')"></span></div>
     <h3>Test and measurement techniques</h3>
-    <p>Including signal pre-processing and post-processing methods that enhance the capabilities of signal generation and signal analysis equipment for advanced RF system characterization and validation, together with digital-twin-based array emulation platforms that enable realistic experimental emulation of large arrays.</p>
+    <p>Signal processing and digital-twin methods that extend instrumentation capabilities for RF system characterization and enable realistic experimental emulation of large antenna arrays.</p>
   </div>
 </div>
 
