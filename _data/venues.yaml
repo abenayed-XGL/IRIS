@@ -34,3 +34,11 @@
   org: EuMA
   short: EuMC
   kind: conference
+- match: International Wireless Symposium
+  org: IEEE
+  short: IWS
+  kind: conference
+- match: Radio Frequency Systems and Applications
+  org: IEEE
+  short: RFSA
+  kind: conference

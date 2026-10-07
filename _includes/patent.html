@@ -1,0 +1,37 @@
+{% assign patent = include.patent %}
+{% if patent.status == "Granted" %}{% assign state = "granted" %}{% else %}{% assign state = "application" %}{% endif %}
+
+<div class="citation-container">
+  <div class="citation patent">
+    <a
+      {% if patent.link %}href="{{ patent.link | uri_escape }}" target="_blank" rel="noopener"{% endif %}
+      class="citation-image"
+      aria-label="{{ patent.title | regex_strip }}"
+    >
+      <span class="venue" data-kind="{{ state }}" aria-hidden="true">
+        <span class="venue-org">{{ patent.office | default: "Patent office" }}</span>
+        <span class="venue-name">Patent</span>
+        <span class="venue-kind">{{ patent.status | default: "Patent" }}</span>
+      </span>
+    </a>
+
+    <div class="citation-text">
+      <a
+        {% if patent.link %}href="{{ patent.link | uri_escape }}" target="_blank" rel="noopener"{% endif %}
+        class="citation-title"
+      >
+        {{ patent.title }}
+      </a>
+
+      {% if patent.inventors %}
+        <div class="citation-authors">{{ patent.inventors | join: ", " }}</div>
+      {% endif %}
+
+      <div class="citation-details">
+        {% if patent.number %}<span class="citation-publisher">{{ patent.number }}</span>{% endif %}
+        {% if patent.number and patent.date %}&nbsp;·&nbsp;{% endif %}
+        {% if patent.date %}<span class="citation-date">{{ patent.date | date: "%d %b %Y" }}</span>{% endif %}
+      </div>
+    </div>
+  </div>
+</div>

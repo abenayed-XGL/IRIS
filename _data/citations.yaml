@@ -1,5 +1,33 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1109/imsrfsa70221.2026.11624298
+  title: Spatial Over-the-Air Post-Distortion Cancellation with an Embedded Distortion-Correcting
+    Transmitter Antenna for Linearizing Phased-Array Transmitters
+  authors:
+  - Ahmed Ben Ayed
+  - Emma Gu
+  - Huixin Jin
+  - Patrick Mitran
+  - Slim Boumaiza
+  publisher: 2026 IEEE MTT-S Radio Frequency Systems and Applications Symposium (IMS
+    RFSA)
+  date: '2026-06-01'
+  link: https://doi.org/hcmrsz
+  orcid: 0000-0002-4310-1368
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/iws69027.2026.11674606
+  title: Testbed for 6G Component Characterization under Wideband Modulated Signal
+    Excitation
+  authors:
+  - Ahmed Ben Ayed
+  - Slim Boumaiza
+  publisher: 2026 IEEE MTT-S International Wireless Symposium (IWS)
+  date: '2026-05-01'
+  link: https://doi.org/hcmrs2
+  orcid: 0000-0002-4310-1368
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/LMWT.2026.3676260
   title: A Two-Tier Low-Complexity Linearization Architecture for Fully Digital mMIMO
     Transmitters
@@ -39,6 +67,34 @@
   publisher: IEEE Microwave Magazine
   date: '2026-06-01'
   link: https://doi.org/hbmcxm
+  orcid: 0000-0002-4310-1368
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ims40360.2025.11103880
+  title: Dual-Band Near-Field Probing Antenna for Enhancing the Performance of Dual-Band
+    Shared-Aperture Linear-Polarized Phased Antenna Arrays
+  authors:
+  - Huixin Jin
+  - Ahmed Ben Ayed
+  - Slim Boumaiza
+  publisher: 2025 IEEE/MTT-S International Microwave Symposium - IMS 2025
+  date: '2025-06-15'
+  link: https://doi.org/hcmrs3
+  orcid: 0000-0002-4310-1368
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ims40360.2025.11104026
+  title: Enhanced EIRP and Reconfigurable Polarization Multi-Feed Active Antenna Module
+    for Millimeter-Wave Beamforming Phased Arrays
+  authors:
+  - Bernard Tung
+  - Mohammad Abdollah Chalaki
+  - Ahmed Ben Ayed
+  - Huixin Jin
+  - Slim Boumaiza
+  publisher: 2025 IEEE/MTT-S International Microwave Symposium - IMS 2025
+  date: '2025-06-15'
+  link: https://doi.org/hcmrs4
   orcid: 0000-0002-4310-1368
   plugin: orcid.py
   file: orcid.yaml
@@ -168,7 +224,7 @@
   orcid: 0000-0002-4310-1368
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/LMWT.2024.3382595
+- id: doi:10.1109/lmwt.2024.3382595
   title: Active Calibration Approach Addressing Antenna Mutual Coupling and Power
     Amplifier Output Mismatch in Fully Digital MIMO Transmitters
   authors:
@@ -180,6 +236,19 @@
   publisher: IEEE Microwave and Wireless Technology Letters
   date: '2024-06-01'
   link: https://doi.org/gt39h6
+  orcid: 0000-0002-4310-1368
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/lmwt.2024.3383335
+  title: Millimeter-Wave Device Characterization Under Wideband Modulated Signals
+    Using Vector Network Analyzer Frequency Extenders
+  authors:
+  - Ahmed Ben Ayed
+  - Patrick Mitran
+  - Slim Boumaiza
+  publisher: IEEE Microwave and Wireless Technology Letters
+  date: '2024-06-01'
+  link: https://doi.org/hbjk4g
   orcid: 0000-0002-4310-1368
   plugin: orcid.py
   file: orcid.yaml
@@ -198,19 +267,6 @@
   orcid: 0000-0002-4310-1368
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/LMWT.2024.3383335
-  title: Millimeter-Wave Device Characterization Under Wideband Modulated Signals
-    Using Vector Network Analyzer Frequency Extenders
-  authors:
-  - Ahmed Ben Ayed
-  - Patrick Mitran
-  - Slim Boumaiza
-  publisher: IEEE Microwave and Wireless Technology Letters
-  date: '2024-06-01'
-  link: https://doi.org/hbjk4g
-  orcid: 0000-0002-4310-1368
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.23919/eumc58039.2023.10290530
   title: A V-Band 16% Efficiency Frequency Doubler-Based RF Beamforming Front-End
     Module for Vector Modulated Signal Transmission
@@ -222,6 +278,19 @@
   publisher: 2023 53rd European Microwave Conference (EuMC)
   date: '2023-09-19'
   link: https://doi.org/hbjk4h
+  orcid: 0000-0002-4310-1368
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tmtt.2023.3248151
+  title: Novel Algorithm to Synthesize the Tapering Profile for Enhanced Linearization
+    of RF Beamforming Arrays Over a Wide Steering Range
+  authors:
+  - Ahmed Ben Ayed
+  - Patrick Mitran
+  - Slim Boumaiza
+  publisher: IEEE Transactions on Microwave Theory and Techniques
+  date: '2023-08-01'
+  link: https://doi.org/hbjk4r
   orcid: 0000-0002-4310-1368
   plugin: orcid.py
   file: orcid.yaml
@@ -255,7 +324,38 @@
   orcid: 0000-0002-4310-1368
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/LMWT.2023.3268550
+- id: doi:10.1109/lmwt.2023.3264877
+  title: Array Calibration and Digital Predistortion Training Using Embedded Near-Field
+    Feedback Probes and Orthogonal Coding for Enhancing the Performance of Millimeter-Wave
+    Beamforming Arrays
+  authors:
+  - Ahmed Ben Ayed
+  - Huixin Jin
+  - Bernard Tung
+  - Patrick Mitran
+  - Slim Boumaiza
+  publisher: IEEE Microwave and Wireless Technology Letters
+  date: '2023-06-01'
+  link: https://doi.org/hbjk4p
+  orcid: 0000-0002-4310-1368
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/lmwt.2023.3268570
+  title: "Embedded Near-Field Probing Antenna for Enhancing the Performance of 37\u2013\
+    41-GHz Linear and Dual-Polarized Phased Antenna Arrays"
+  authors:
+  - Huixin Jin
+  - Ahmed Ben Ayed
+  - Ziran He
+  - Bernard Tung
+  - Slim Boumaiza
+  publisher: IEEE Microwave and Wireless Technology Letters
+  date: '2023-06-01'
+  link: https://doi.org/hbjk4q
+  orcid: 0000-0002-4310-1368
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/lmwt.2023.3268550
   title: On the Viability of Using a Subset of Transmitter- Observation Receivers
     for Training a Common DPD in Fully Digital MIMO Transmitters
   authors:
@@ -281,50 +381,6 @@
   publisher: 2023 100th ARFTG Microwave Measurement Conference (ARFTG)
   date: '2023-01-22'
   link: https://doi.org/hbjk4n
-  orcid: 0000-0002-4310-1368
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/LMWT.2023.3264877
-  title: Array Calibration and Digital Predistortion Training Using Embedded Near-Field
-    Feedback Probes and Orthogonal Coding for Enhancing the Performance of Millimeter-Wave
-    Beamforming Arrays
-  authors:
-  - Ahmed Ben Ayed
-  - Huixin Jin
-  - Bernard Tung
-  - Patrick Mitran
-  - Slim Boumaiza
-  publisher: IEEE Microwave and Wireless Technology Letters
-  date: '2023-06-01'
-  link: https://doi.org/hbjk4p
-  orcid: 0000-0002-4310-1368
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/LMWT.2023.3268570
-  title: "Embedded Near-Field Probing Antenna for Enhancing the Performance of 37\u2013\
-    41-GHz Linear and Dual-Polarized Phased Antenna Arrays"
-  authors:
-  - Huixin Jin
-  - Ahmed Ben Ayed
-  - Ziran He
-  - Bernard Tung
-  - Slim Boumaiza
-  publisher: IEEE Microwave and Wireless Technology Letters
-  date: '2023-06-01'
-  link: https://doi.org/hbjk4q
-  orcid: 0000-0002-4310-1368
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/TMTT.2023.3248151
-  title: Novel Algorithm to Synthesize the Tapering Profile for Enhanced Linearization
-    of RF Beamforming Arrays Over a Wide Steering Range
-  authors:
-  - Ahmed Ben Ayed
-  - Patrick Mitran
-  - Slim Boumaiza
-  publisher: IEEE Transactions on Microwave Theory and Techniques
-  date: '2023-08-01'
-  link: https://doi.org/hbjk4r
   orcid: 0000-0002-4310-1368
   plugin: orcid.py
   file: orcid.yaml

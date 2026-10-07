@@ -191,6 +191,20 @@ except Exception as e:
 
 log()
 
+log("Updating patents")
+
+# patents from ORCID (type "patent") -> _data/patents.yaml, shown on the Patents page
+try:
+    import patents
+
+    log(f"{patents.main()} patent(s) saved", indent=1)
+except Exception as e:
+    log(e, indent=1, level="WARNING")
+    warnings.append(f"Patents not updated: {e}")
+
+
+log()
+
 
 # exit at end, so user can see all errors/warnings in one run
 if len(warnings):
