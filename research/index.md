@@ -18,7 +18,7 @@ In particular, the IRIS Laboratory works on:
     <p>Aimed at enhancing the performance of beamforming-array transceivers through analytical modeling and optimization techniques that explicitly account for practical hardware limitations and system-level interactions.</p>
   </div>
   <div class="home-card">
-    <div class="home-card-icon"><span style="--icon: url('{{ "images/research/antenna.svg" | relative_url }}')"></span></div>
+    <div class="home-card-icon"><span style="--icon: url('{{ "images/research/antenna.svg" | relative_url }}'); width: 42px; height: 42px"></span></div>
     <h3>Large-scale antenna arrays for wireless and SATCOM applications</h3>
     <p>With emphasis on design methodologies that account for antenna and front-end non-idealities and the integration of sensing capabilities for DSP-based performance enhancement.</p>
   </div>
