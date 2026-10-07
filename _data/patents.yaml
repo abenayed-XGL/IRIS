@@ -1,2 +1,33 @@
-# DO NOT EDIT, GENERATED AUTOMATICALLY (from ORCID, see _cite/patents.py)
-[]
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- title: METHODS AND APPARATUS FOR COMPONENT/SYSTEM TESTING UNDER MODULATED SIGNALS
+    USING FREQUENCY EXTENDERS
+  number: US 2026/0063694 A1
+  office: USPTO
+  status: Application
+  link: https://patents.google.com/patent/US20260063694A1
+  date: '2026-03-05'
+  inventors:
+  - Ben Ayed Ahmed
+  - Boumaiza Slim
+- title: SYSTEM AND METHOD FOR LINEARIZING FREQUENCY MULTIPLIERS WITH CONSTRAINED
+    TRANSMITTER BANDWIDTH
+  number: US 2026/0066943 A1
+  office: USPTO
+  status: Application
+  link: https://patents.google.com/patent/US20260066943A1
+  date: '2026-03-05'
+  inventors:
+  - Ben Ayed Ahmed
+  - Boumaiza Slim
+- title: METHOD AND SYSTEM FOR ACTIVE CALIBRATION AND/OR LINEARIZATION OF ANTENNA
+    ARRAYS
+  number: US 2025/0141480 A1
+  office: USPTO
+  status: Application
+  link: https://patents.google.com/patent/US20250141480A1
+  date: '2025-05-01'
+  inventors:
+  - Boumaiza Slim
+  - Jin Huixin
+  - Ayed Ahmed Ben
