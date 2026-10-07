@@ -267,22 +267,6 @@
   orcid: 0000-0002-4310-1368
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1177/02184923231216131
-  title: 'Enhanced recovery after thoracic surgery in low- and middle-income countries:
-    Feasibility and outcomes'
-  authors:
-  - Abdessalem Hentati
-  - Ahmed Ben Ayed
-  - Jihen Jdidi
-  - Zied Chaari
-  - Ghassen Ben Halima
-  - Imed Frikha
-  publisher: Asian Cardiovascular and Thoracic Annals
-  date: '2023-11-22'
-  link: https://doi.org/hcmrs5
-  orcid: 0000-0002-4310-1368
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.23919/eumc58039.2023.10290530
   title: A V-Band 16% Efficiency Frequency Doubler-Based RF Beamforming Front-End
     Module for Vector Modulated Signal Transmission
@@ -441,15 +425,6 @@
   publisher: 2022 99th ARFTG Microwave Measurement Conference (ARFTG)
   date: '2022-06-24'
   link: https://doi.org/hbjk4t
-  orcid: 0000-0002-4310-1368
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/ims37962.2022.9865254
-  title: Brief Author Index
-  authors: []
-  publisher: 2022 IEEE/MTT-S International Microwave Symposium - IMS 2022
-  date: '2022-06-19'
-  link: https://doi.org/hcmrs6
   orcid: 0000-0002-4310-1368
   plugin: orcid.py
   file: orcid.yaml
