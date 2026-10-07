@@ -28,7 +28,7 @@ In particular, the IRIS Laboratory works on:
     <p>Enabling efficient and high-linearity signal generation under ultra-wideband and vector-modulated operation, including high-efficiency power amplifiers, frequency multipliers, and analog predistortion techniques.</p>
   </div>
   <div class="home-card">
-    <div class="home-card-icon"><span style="--icon: url('{{ "images/research/measurement.svg?v=3" | relative_url }}')"></span></div>
+    <div class="home-card-icon"><span style="--icon: url('{{ "images/research/measurement.svg?v=4" | relative_url }}')"></span></div>
     <h3>Test and measurement techniques</h3>
     <p>Including signal pre-processing and post-processing methods that enhance the capabilities of signal generation and signal analysis equipment for advanced RF system characterization and validation, together with digital-twin-based array emulation platforms that enable realistic experimental emulation of large arrays.</p>
   </div>
