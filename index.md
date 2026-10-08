@@ -17,7 +17,7 @@ Our research advances RF circuits and systems, antenna arrays, signal processing
   <a class="home-card" href="{{ "research" | relative_url }}">
     <div class="home-card-icon"><span style="--icon: url('{{ "images/research.svg?v=2" | relative_url }}')"></span></div>
     <h3>Our Research</h3>
-    <p>Explore our work on physical-layer technologies for next-generation wireless and satellite communications, spanning circuits, antennas, signal processing, and measurement science.</p>
+    <p>Explore our work on physical-layer technologies for next-generation wireless and satellite communications, spanning RF front ends, antenna arrays, digital signal processing, and test and measurement.</p>
     <span class="home-card-link">See our research</span>
   </a>
   <a class="home-card" href="{{ "team" | relative_url }}">

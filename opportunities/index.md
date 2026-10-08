@@ -21,7 +21,7 @@ The Intelligent Radio and Integrated Systems (IRIS) Laboratory is actively recru
     <div class="home-card-icon"><span style="--icon: url('{{ "images/research/antenna.svg?v=4" | relative_url }}'); width: 42px; height: 42px"></span></div>
     <div class="home-card-eyebrow">Postgraduate position</div>
     <h3>Antenna Design and System Integration</h3>
-    <p>Designing antennas, arrays, and RF passive circuits, and their system-level integration for next-generation wireless systems, with emphasis on sub-10 GHz MIMO transmitters and millimeter-wave SATCOM beamforming arrays.</p>
+    <p>Designing antennas, arrays, and RF passive circuits and integrating them into next-generation wireless systems, with emphasis on sub-10 GHz MIMO transmitters and millimeter-wave SATCOM beamforming arrays.</p>
     <div class="home-card-meta"><em>Preferred background:</em> electromagnetics, antenna theory, RF/microwave engineering, or related fields.</div>
   </div>
   <div class="home-card">
@@ -37,7 +37,7 @@ The Intelligent Radio and Integrated Systems (IRIS) Laboratory is actively recru
 
 The IRIS Laboratory welcomes undergraduate students interested in gaining research experience through the Undergraduate Research Opportunities Program (UROP) or research internships.
 
-UROP students work closely with the PI and postgraduate researchers on projects related to RF circuits, antenna arrays, signal processing, and measurement techniques. These positions are well suited for students considering graduate studies or seeking hands-on research experience. Applicants from diverse backgrounds — including ECE, CPEG, CS, and MECH — are encouraged to apply.
+UROP students work closely with the PI and postgraduate researchers on projects related to RF front ends, antenna arrays, digital signal processing, and test and measurement. These positions are well suited for students considering graduate studies or seeking hands-on research experience. Applicants from diverse backgrounds — including ECE, CPEG, CS, and MECH — are encouraged to apply.
 
 ## How to Apply
 
@@ -55,7 +55,7 @@ Please attach all documents in PDF format and include the position title (e.g., 
 
 Undergraduate applicants may instead send a short statement of interest and a summary of their academic background.
 
-We will respond to eligible candidates within a reasonable time frame. All positions remain open until filled.
+All positions remain open until filled.
 
 {%
   include button.html

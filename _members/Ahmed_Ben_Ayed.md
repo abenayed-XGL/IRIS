@@ -18,9 +18,9 @@ Ahmed Ben Ayed is an Assistant Professor in the Department of Electronic and Com
 
 He received the BEng degree in Electronic Engineering, with a Minor in Mathematics, from HKUST in 2017, and the MASc and PhD degrees in Electrical and Computer Engineering from the University of Waterloo in 2019 and 2024, respectively.
 
-Prof. Ben Ayed’s research focuses on advancing physical-layer modeling, design, and optimization for next-generation wireless and satellite communications (SATCOM) systems. His work spans nonlinear behavioral modeling, advanced signal processing, beamforming antenna arrays, and high-frequency measurement science.
+Prof. Ben Ayed’s research focuses on physical-layer technologies for next-generation wireless and satellite communications. His work spans hardware-aware digital signal processing, large-scale antenna arrays, high-performance RF front ends, and advanced RF test and measurement.
 
-His research contributions have been recognized through several honors, including multiple IMS Top 50 Paper Awards and finalist recognitions for Advanced Practice Paper and Best Student Paper awards.
+His research contributions have received several distinctions at the IEEE MTT-S International Microwave Symposium (IMS), including multiple Top 50 Paper selections and finalist recognition in the Advanced Practice Paper and Best Student Paper competitions.
 
-Prof. Ben Ayed serves the technical community as a reviewer for major IEEE journals. He is a member of the IEEE Microwave Theory and Techniques Society (MTT-S) and its Technical Committee on Wireless Communications (TC-23).
+Prof. Ben Ayed serves the technical community as a reviewer for major IEEE journals. He is a member of the IEEE Microwave Theory and Techniques Society (MTT-S) and serves on its Technical Committee on Wireless Communications (TC-23).
 

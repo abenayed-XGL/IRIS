@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Research at the Intelligent Radio and Integrated Systems (IRIS) Laboratory focuses on next-generation RF circuits and systems for terrestrial and non-terrestrial communications. The laboratory adopts a holistic, system-level approach that tightly integrates digital signal processing, antenna and circuit design, and test and measurement techniques to enable practical, high-performance RF systems.
+Research at the Intelligent Radio and Integrated Systems (IRIS) Laboratory focuses on next-generation RF circuits and systems for wireless and satellite communications. We take a system-level approach that brings together digital signal processing, antenna arrays, RF front ends, and test and measurement to address the practical hardware limitations and interactions that ultimately determine system performance.
 
 ## Research Areas
 
