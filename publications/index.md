@@ -5,8 +5,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-book" %} Publications
-
-Research conducted in the Intelligent Radio and Integrated Systems (IRIS) Laboratory is disseminated through top-tier international conferences and journals in the field of RF and microwave engineering. These include leading venues such as the IEEE International Microwave Symposium (IMS), the European Microwave Conference (EuMC), and the IEEE Transactions on Microwave Theory and Techniques (T-MTT), among others.
+Research by members of the Intelligent Radio and Integrated Systems (IRIS) Laboratory is disseminated through top-tier international conferences and journals in RF and microwave engineering. These include leading venues such as the IEEE International Microwave Symposium (IMS), the European Microwave Conference (EuMC), and the IEEE Transactions on Microwave Theory and Techniques (T-MTT), among others.
 
 {% include publication-stats.html %}
 
