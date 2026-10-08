@@ -6,8 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-certificate" %} Patents
-
-Research at the Intelligent Radio and Integrated Systems (IRIS) Laboratory leads to inventions with direct industrial relevance. Below are patents and patent applications by members of the laboratory.
+Research by the Intelligent Radio and Integrated Systems (IRIS) Laboratory members leads to inventions with direct industrial relevance. Below are patents and patent applications invented or co-invented by members of the laboratory.
 
 {% assign patents = site.data.patents | sort: "date" | reverse %}
 
