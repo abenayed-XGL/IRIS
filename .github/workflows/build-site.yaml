@@ -43,7 +43,9 @@ jobs:
 
       - name: Set root url
         run: |
-          printf "\n\nurl: ${{ steps.pages.outputs.origin }}" >> _config.yaml
+          # the site is served over https (through Cloudflare); GitHub reports http
+          origin="${{ steps.pages.outputs.origin }}"
+          printf "\n\nurl: ${origin/#http:/https:}" >> _config.yaml
 
       - name: Build live version of site
         run: |
