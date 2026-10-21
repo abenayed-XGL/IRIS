@@ -1,9 +1,6 @@
-<!-- third party styles -->
+<!-- third party styles, served by this site (jsDelivr is unreliable in mainland China; see libs/README.md) -->
 <!-- https://stylishthemes.github.io/Syntax-Themes/pygments/ -->
-<link 
-  href="https://cdn.jsdelivr.net/gh/StylishThemes/Syntax-Themes/pygments/css-github/pygments-tomorrow-night-eighties.css"
-  rel="stylesheet"
-/>
+<link href="{{ '/libs/css/pygments-tomorrow-night-eighties.css' | relative_url }}" rel="stylesheet" />
 
 <!-- include all sass in styles folder -->
 <!-- ?v=<build time> makes browsers and Cloudflare fetch fresh styles after every update -->
