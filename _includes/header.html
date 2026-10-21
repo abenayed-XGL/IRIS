@@ -29,7 +29,7 @@
     {% if site.logo-text != false %}
       <span class="title-text" data-tooltip="Home">
         {% if site.title and site.show-title != false %}
-          <span class="title">{{ site.title }}</span>
+          <span class="title"><span class="title-full">{{ site.title }}</span><span class="title-short">{{ site.short-title | default: site.title }}</span></span>
         {% endif %}
         {% if site.subtitle and site.show-subtitle != false %}
           <span class="subtitle">{{ site.subtitle }}</span>
@@ -38,17 +38,26 @@
     {% endif %}
   </a>
 
-  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
+  <input class="nav-toggle" type="checkbox" aria-label="Menu">
 
   <nav>
     {% assign pages = site.pages
       | where_exp: "page", "page.nav"
       | sort: "nav.order"
     %}
-    {% for page in pages %}
-      {% if page.nav %}
-        <a href="{{ page.dir | relative_url | uri_escape }}">
-          {{ page.title }}
+    {% comment %} mark the page you are on (team member profiles count as Team) {% endcomment %}
+    {% for item in pages %}
+      {% if item.nav %}
+        {% assign current = false %}
+        {% if page.url == item.dir %}
+          {% assign current = true %}
+        {% elsif item.dir != "/" %}
+          {% assign start = page.url | slice: 0, item.dir.size %}
+          {% if start == item.dir %}{% assign current = true %}{% endif %}
+          {% if page.collection == "members" and item.dir == "/team/" %}{% assign current = true %}{% endif %}
+        {% endif %}
+        <a href="{{ item.dir | relative_url | uri_escape }}"{% if current %} aria-current="page"{% endif %}>
+          {{ item.title }}
         </a>
       {% endif %}
     {% endfor %}
