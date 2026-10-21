@@ -137,3 +137,82 @@ ul.checklist li::before {
     url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='3.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 12.5l4 4 8-9'/%3E%3C/svg%3E") center / 12px no-repeat,
     var(--primary);
 }
+
+/* 7. Navigation on inner pages (the home page keeps its big header):
+   compact bar, the page you are on underlined, and a clean full-width menu on phones */
+header nav > a[aria-current="page"] {
+  box-shadow: inset 0 -2px 0 var(--primary);
+}
+
+.title-short {
+  display: none;
+}
+
+header.background:not([data-big]) {
+  padding: 12px 24px;
+  min-height: 72px;
+  gap: 12px 20px;
+}
+
+header:not([data-big]) .title-text {
+  flex-wrap: nowrap;
+  white-space: nowrap;
+}
+
+/* narrower screens: "IRIS Lab · HKUST" instead of the full name */
+@media (max-width: 1150px) {
+  header:not([data-big]) .title-full {
+    display: none;
+  }
+  header:not([data-big]) .title-short {
+    display: inline;
+  }
+}
+
+@media (max-width: 700px) {
+  header.background:not([data-big]) {
+    padding: 10px 16px;
+    min-height: 60px;
+    gap: 0;
+  }
+  header:not([data-big]) .home {
+    flex: 1 1 auto;
+  }
+  header:not([data-big]) .logo {
+    width: 34px;
+    height: 34px;
+    min-width: 34px;
+  }
+  header:not([data-big]) .title {
+    font-size: 1.15rem;
+  }
+  header:not([data-big]) .nav-toggle {
+    width: 44px;
+    height: 44px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  header:not([data-big]) .nav-toggle:after {
+    font-size: 20px;
+  }
+  /* the menu: one row per page, full width, left-aligned, easy to tap */
+  header:not([data-big]) nav {
+    align-items: stretch;
+    gap: 0;
+    margin-top: 10px;
+    border-top: 1px solid rgb(255 255 255 / 18%);
+    text-align: left;
+  }
+  header:not([data-big]) nav > a {
+    padding: 14px 6px;
+    font-size: 1.05rem;
+    border-bottom: 1px solid rgb(255 255 255 / 10%);
+  }
+  header:not([data-big]) nav > a:last-child {
+    border-bottom: 0;
+  }
+  header:not([data-big]) nav > a[aria-current="page"] {
+    box-shadow: inset 3px 0 0 var(--primary);
+    padding-left: 16px;
+  }
+}
