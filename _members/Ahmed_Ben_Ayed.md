@@ -10,7 +10,7 @@ aliases:
   - A. B. Ayed
 links:
   home-page: https://iris-lab.org
-  google-scholar: https://scholar.google.com/citations?user=X3t3jt0AAAAJ
+  google-scholar: X3t3jt0AAAAJ
   orcid: 0000-0002-4310-1368
 ---
 
